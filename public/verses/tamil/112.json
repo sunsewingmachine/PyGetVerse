@@ -1,0 +1,370 @@
+[
+  {
+    "_id": "6857b36bceccc56a13354f74",
+    "verse_key": "112:300",
+    "tamil_pj": "அத்தியாயம் : 112 இஃக்லாஸ்\r\nமொத்த வசனங்கள் : 4\r\nஇஃக்லாஸ் - உளத்தூய்மை\r\nஇந்த அத்தியாயம் ஓரிறைக் கொள்கையைத் இரத்தினச் சுருக்கமாகக் கூறுவதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டுள்ளது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f649",
+    "verse_key": "112:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 112,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e832",
+    "verse_key": "112:1",
+    "sura": 112,
+    "ayah": 1,
+    "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "words": [
+      {
+        "form": "qulo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaAla|ROOT:qwl|2MS"
+      },
+      {
+        "form": "huwa",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3MS"
+      },
+      {
+        "form": "{ll~ahu",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|NOM"
+      },
+      {
+        "form": ">aHadN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aHad|ROOT:AHd|M|INDEF|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "قُلْ",
+        "translation": "கூறுவீராக"
+      },
+      {
+        "arabic": "هُوَ",
+        "translation": "அவன்"
+      },
+      {
+        "arabic": "اللّٰهُ",
+        "translation": "அல்லாஹ்"
+      },
+      {
+        "arabic": "اَحَدٌ‌ ۚ‏",
+        "translation": "ஒருவன்"
+      }
+    ],
+    "tamil_pj": "\"அல்லாஹ் ஒரே ஒருவன்'' என கூறுவீராக!",
+    "transliteration_tamil": "Qகுல் hஹுவ-ல்லாhஹு அஹdத்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        360,
+        680
+      ],
+      [
+        3,
+        930,
+        1030
+      ],
+      [
+        4,
+        1880,
+        3040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e833",
+    "verse_key": "112:2",
+    "sura": 112,
+    "ayah": 2,
+    "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+    "words": [
+      {
+        "form": "{ll~ahu",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|NOM"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "S~amadu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:S~amad|ROOT:Smd|MS|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اَللّٰهُ",
+        "translation": "அல்லாஹ்"
+      },
+      {
+        "arabic": "الصَّمَدُ‌ ۚ‏",
+        "translation": "தலைவன்"
+      }
+    ],
+    "tamil_pj": "அல்லாஹ் தேவைகளற்றவன்.485",
+    "transliteration_tamil": "அல்லாhஹுsஸ் sஸமdத்.",
+    "segments": [
+      [
+        1,
+        290,
+        390
+      ],
+      [
+        2,
+        1200,
+        2600
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e834",
+    "verse_key": "112:3",
+    "sura": 112,
+    "ayah": 3,
+    "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "words": [
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "yalido",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:walada|ROOT:wld|3MS|MOOD:JUS"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "yuwlado",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:walada|ROOT:wld|3MS|MOOD:JUS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "لَمْ يَلِدْ   ۙ",
+        "translation": "அவன் பெற்றெடுக்கவில்லை"
+      },
+      {
+        "arabic": "وَلَمْ يُوْلَدْ ۙ‏",
+        "translation": "இன்னும் பெற்றெடுக்கப்படவுமில்லை"
+      }
+    ],
+    "tamil_pj": "(யாரையும்) அவன் பெறவில்லை. (யாருக்கும்) பிறக்கவுமில்லை.",
+    "transliteration_tamil": "லம் யலிdத் வலம் யூலdத்.",
+    "segments": [
+      [
+        1,
+        0,
+        320
+      ],
+      [
+        2,
+        440,
+        1000
+      ],
+      [
+        3,
+        1080,
+        1600
+      ],
+      [
+        4,
+        1720,
+        3040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e835",
+    "verse_key": "112:4",
+    "sura": 112,
+    "ayah": 4,
+    "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "yakun",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kaAna|ROOT:kwn|SP:kaAn|3MS|MOOD:JUS"
+      },
+      {
+        "form": "l~a",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "hu,",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3MS"
+      },
+      {
+        "form": "kufuwFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:kufuw|ROOT:kfA|M|INDEF|ACC"
+      },
+      {
+        "form": ">aHadN[",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aHad|ROOT:AHd|M|INDEF|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَلَمْ يَكُنْ",
+        "translation": "இன்னும் இல்லை"
+      },
+      {
+        "arabic": "لَّهٗ",
+        "translation": "அவனுக்கு"
+      },
+      {
+        "arabic": "كُفُوًا",
+        "translation": "நிகராக"
+      },
+      {
+        "arabic": "اَحَدٌ‏",
+        "translation": "ஒருவரும்"
+      }
+    ],
+    "tamil_pj": "அவனுக்கு நிகராக யாருமில்லை.",
+    "transliteration_tamil": "வலம் யகுல் லhஹூ குFபுவன் அஹdத்.",
+    "segments": [
+      [
+        1,
+        0,
+        520
+      ],
+      [
+        2,
+        680,
+        1000
+      ],
+      [
+        3,
+        1610,
+        1710
+      ],
+      [
+        4,
+        2000,
+        2600
+      ],
+      [
+        5,
+        3200,
+        4920
+      ]
+    ]
+  }
+]

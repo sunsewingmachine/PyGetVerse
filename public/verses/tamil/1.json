@@ -1,0 +1,613 @@
+[
+  {
+    "_id": "6857f9a8ceccc56a13354f9d",
+    "verse_key": "1:300",
+    "tamil_pj": "அத்தியாயம் : 1 - அல் பாத்திஹா\r\nமொத்த வசனங்கள் : 7\r\nஅல் பாத்திஹா - தோற்றுவாய்\r\nஅல்ஃபாத்திஹா என்ற அரபுச் சொல்லுக்கு தோற்றுவாய், முதன்மையானது எனப் பொருள். திருக்குர்ஆனின் முதல் அத்தியாயமாக இது அமைந்துள்ளதால் இந்தப் பெயர் வந்தது. திருக்குர்ஆனிலேயே இந்த அத்தியாயம் குறித்துச் சிறப்பித்துக் கூறப்பட்டிருக்கிறது. பார்க்க 15:87."
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfe5",
+    "verse_key": "1:1",
+    "sura": 1,
+    "ayah": 1,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "transliteration_tamil": "பிஸ்மில்லாhஹிர் ரஹ்மானிர் ரஹீம்.",
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfe6",
+    "verse_key": "1:2",
+    "sura": 1,
+    "ayah": 2,
+    "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "words": [
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Hamodu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Hamod|ROOT:Hmd|M|NOM"
+      },
+      {
+        "form": "li",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "l~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Ea`lamiyna",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Ea`lamiyn|ROOT:Elm|MP|GEN"
+      }
+    ],
+    "tamil_pj": "(அவன்) அகிலத்தைப் (படைத்துப்) பராமரிப்பவன்.",
+    "parts_tamil": [
+      {
+        "arabic": "اَلْحَمْدُ",
+        "translation": "எல்லாப் புகழும்"
+      },
+      {
+        "arabic": "لِلّٰهِ",
+        "translation": "அல்லாஹ்விற்கே"
+      },
+      {
+        "arabic": "رَبِّ",
+        "translation": "இறைவன்"
+      },
+      {
+        "arabic": "الْعٰلَمِيْنَۙ‏",
+        "translation": "அகிலத்தார்களின்"
+      }
+    ],
+    "transliteration_tamil": "அல்ஹம்dது லில்லாhஹி ரப்பில் oஆலமீன்.",
+    "segments": [
+      [
+        1,
+        360,
+        840
+      ],
+      [
+        2,
+        1210,
+        1310
+      ],
+      [
+        3,
+        2170,
+        2270
+      ],
+      [
+        4,
+        2440,
+        5640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfe7",
+    "verse_key": "1:3",
+    "sura": 1,
+    "ayah": 3,
+    "arabic": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "tamil_pj": "நிகரற்ற அன்புடையோன்.",
+    "parts_tamil": [
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِۙ‏",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "transliteration_tamil": "அர்ரஹ்மானிர் ரஹீம்.",
+    "segments": [
+      [
+        1,
+        760,
+        1120
+      ],
+      [
+        2,
+        1440,
+        4680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfe8",
+    "verse_key": "1:4",
+    "sura": 1,
+    "ayah": 4,
+    "arabic": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "words": [
+      {
+        "form": "ma`liki",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ma`lik|ROOT:mlk|M|GEN"
+      },
+      {
+        "form": "yawomi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yawom|ROOT:ywm|M|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "tamil_pj": "தீர்ப்பு நாளின்1 அதிபதி.",
+    "parts_tamil": [
+      {
+        "arabic": "مٰلِكِ",
+        "translation": "அதிபதி"
+      },
+      {
+        "arabic": "يَوْمِ",
+        "translation": "நாளின்"
+      },
+      {
+        "arabic": "الدِّيْنِؕ‏",
+        "translation": "கூலி"
+      }
+    ],
+    "transliteration_tamil": "மாலிகி யவ்மிdத் dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        640
+      ],
+      [
+        2,
+        840,
+        1280
+      ],
+      [
+        3,
+        1640,
+        4680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfe9",
+    "verse_key": "1:5",
+    "sura": 1,
+    "ayah": 5,
+    "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "words": [
+      {
+        "form": "<iy~aAka",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|LEM:<iy~aA|2MS"
+      },
+      {
+        "form": "naEobudu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eabada|ROOT:Ebd|1P"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<iy~aAka",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|LEM:<iy~aA|2MS"
+      },
+      {
+        "form": "nasotaEiynu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaEiynu|ROOT:Ewn|1P"
+      }
+    ],
+    "tamil_pj": "(எனவே) உன்னையே வணங்குகிறோம். உன்னிடமே உதவியும் தேடுகிறோம்.",
+    "parts_tamil": [
+      {
+        "arabic": "اِيَّاكَ",
+        "translation": "உன்னையே"
+      },
+      {
+        "arabic": "نَعْبُدُ",
+        "translation": "வணங்குவோம்"
+      },
+      {
+        "arabic": "وَاِيَّاكَ",
+        "translation": "இன்னும் உன்னிடமே"
+      },
+      {
+        "arabic": "نَسْتَعِيْنُؕ‏",
+        "translation": "உதவி தேடுகிறோம்"
+      }
+    ],
+    "transliteration_tamil": "இய்யாக நoஃபுdது வஇய்யாக நஸ்தoஈன்.",
+    "segments": [
+      [
+        1,
+        0,
+        760
+      ],
+      [
+        2,
+        920,
+        1680
+      ],
+      [
+        3,
+        1720,
+        2640
+      ],
+      [
+        4,
+        2840,
+        6760
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfea",
+    "verse_key": "1:6",
+    "sura": 1,
+    "ayah": 6,
+    "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "words": [
+      {
+        "form": "{hodi",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:hadaY|ROOT:hdy|2MS"
+      },
+      {
+        "form": "naA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "S~ira`Ta",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Sira`T|ROOT:SrT|M|ACC"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "musotaqiyma",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|(X)|LEM:m~usotaqiym|ROOT:qwm|M|ACC"
+      }
+    ],
+    "tamil_pj": "எங்களை நேர்வழியில் செலுத்துவாயாக!",
+    "parts_tamil": [
+      {
+        "arabic": "اِهْدِنَا",
+        "translation": "எங்களை நேர்வழி நடத்து"
+      },
+      {
+        "arabic": "الصِّرَاطَ",
+        "translation": "பாதையில்"
+      },
+      {
+        "arabic": "الْمُسْتَقِيْمَۙ‏",
+        "translation": "நேரான"
+      }
+    ],
+    "transliteration_tamil": "இhஹ்dதினsஸ் sஸிராTதல் முஸ்தqகீம்.",
+    "segments": [
+      [
+        1,
+        0,
+        600
+      ],
+      [
+        2,
+        880,
+        1520
+      ],
+      [
+        3,
+        1800,
+        5640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbba8b8e4de2bae44cfeb",
+    "verse_key": "1:7",
+    "sura": 1,
+    "ayah": 7,
+    "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "words": [
+      {
+        "form": "Sira`Ta",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Sira`T|ROOT:SrT|M|ACC"
+      },
+      {
+        "form": "{l~a*iyna",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MP"
+      },
+      {
+        "form": ">anoEamo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anoEama|ROOT:nEm|2MS"
+      },
+      {
+        "form": "ta",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "Ealayo",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:EalaY`"
+      },
+      {
+        "form": "himo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "gayori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:gayor|ROOT:gyr|M|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "magoDuwbi",
+        "tag": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:magoDuwb|ROOT:gDb|M|GEN"
+      },
+      {
+        "form": "Ealayo",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:EalaY`"
+      },
+      {
+        "form": "himo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "laA",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "D~aA^l~iyna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:DaA^l~|ROOT:Dll|MP|GEN"
+      }
+    ],
+    "tamil_pj": "நீ அருள் புரிந்து (உன்னால்) கோபிக்கப்படாத, பாதைமாறிச் செல்லாதவர்களின் வழியில் (செலுத்துவாயாக.)26",
+    "parts_tamil": [
+      {
+        "arabic": "صِرَاطَ",
+        "translation": "பாதையில்"
+      },
+      {
+        "arabic": "الَّذِيْنَ",
+        "translation": "எவர்கள்"
+      },
+      {
+        "arabic": "اَنْعَمْتَ",
+        "translation": "அருள் புரிந்தாய்"
+      },
+      {
+        "arabic": "عَلَيْهِمْۙ‏",
+        "translation": "அவர்கள் மீது"
+      },
+      {
+        "arabic": "غَیْرِ",
+        "translation": "அல்லாதவர்கள்"
+      },
+      {
+        "arabic": "الْمَغْضُوْبِ",
+        "translation": "கோபிக்கப்பட்டவர்கள்"
+      },
+      {
+        "arabic": "عَلَیْهِمْ",
+        "translation": "அவர்கள் மீது"
+      },
+      {
+        "arabic": "وَلَا",
+        "translation": "இன்னும் இல்லை"
+      },
+      {
+        "arabic": "الضَّآلِّيْنَ‏",
+        "translation": "வழிகெட்டவர்கள்"
+      }
+    ],
+    "transliteration_tamil": "SஸிராTத-ல்லdhதீன அன்oஅம்த oஅலைhஹிம், ghகைரில் மghக்Dளூபி oஅலைhஹிம் வலDள் Dளாaaல்லீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        640
+      ],
+      [
+        2,
+        880,
+        1280
+      ],
+      [
+        3,
+        1680,
+        2480
+      ],
+      [
+        4,
+        2880,
+        3280
+      ],
+      [
+        5,
+        3480,
+        3600
+      ],
+      [
+        6,
+        4360,
+        5200
+      ],
+      [
+        7,
+        5600,
+        5960
+      ],
+      [
+        8,
+        6250,
+        6350
+      ],
+      [
+        9,
+        6720,
+        13280
+      ]
+    ]
+  }
+]

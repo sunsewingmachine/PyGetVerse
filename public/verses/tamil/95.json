@@ -1,0 +1,806 @@
+[
+  {
+    "_id": "685cde99ceccc56a133553ec",
+    "verse_key": "95:300",
+    "tamil_pj": "அத்தியாயம் : 95 அத்தீன்\r\nமொத்த வசனங்கள் : 8\r\nஅத்தீன் - அத்தி\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அத்தி என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இவ்வாறு பெயரிடப்பட்டது."
+  },
+  {
+    "_id": "684aeee6b72c6e8a6bb3f639",
+    "verse_key": "95:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 95,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b7",
+    "verse_key": "95:1",
+    "sura": 95,
+    "ayah": 1,
+    "arabic": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "P",
+        "features": "PREFIX|w:P+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "t~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:t~iyn|ROOT:tyn|M|GEN"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "z~ayotuwni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:z~ayotuwn|ROOT:zyt|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَالتِّيْنِ",
+        "translation": "அத்தி மரத்தின் மீது சத்தியமாக"
+      },
+      {
+        "arabic": "وَالزَّيْتُوْنِۙ‏",
+        "translation": "ஜைதூன் மரத்தின் மீது சத்தியமாக"
+      }
+    ],
+    "tamil_pj": "அத்தியின் மீதும், ஒலிவ மரத்தின் மீதும் சத்தியமாக!379",
+    "transliteration_tamil": "வத்தீனி வzஸ்zஸைதூன்.",
+    "segments": [
+      [
+        1,
+        0,
+        840
+      ],
+      [
+        2,
+        1000,
+        4840
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b8",
+    "verse_key": "95:2",
+    "sura": 95,
+    "ayah": 2,
+    "arabic": "وَطُورِ سِينِينَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "Tuwri",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Tuwr|ROOT:Twr|M|GEN"
+      },
+      {
+        "form": "siyniyna",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:siyniyn|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَطُوْرِ",
+        "translation": "மலையின் மீது சத்தியமாக"
+      },
+      {
+        "arabic": "سِيْنِيْنَۙ‏",
+        "translation": "சினாய்"
+      }
+    ],
+    "tamil_pj": "தூர் ஸீனீன் மலையின் மீதும் சத்தியமாக!379",
+    "transliteration_tamil": "வTதூரி ஸீனீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        800,
+        4160
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b9",
+    "verse_key": "95:3",
+    "sura": 95,
+    "ayah": 3,
+    "arabic": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "ha`*aA",
+        "tag": "DEM",
+        "features": "STEM|POS:DEM|LEM:ha`*aA|MS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "baladi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:balad|ROOT:bld|M|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">amiyni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>amiyn|ROOT:Amn|MS|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَ",
+        "translation": "சத்தியமாக"
+      },
+      {
+        "arabic": "هٰذَا",
+        "translation": "இந்த"
+      },
+      {
+        "arabic": "الْبَلَدِ",
+        "translation": "நகரம்"
+      },
+      {
+        "arabic": "الْاَمِيْنِۙ‏",
+        "translation": "அபயமளிக்கக்கூடிய"
+      }
+    ],
+    "tamil_pj": "அபயமளிக்கும் இவ்வூர்34 மீதும் சத்தியமாக!379",
+    "transliteration_tamil": "வhஹாdhதல் பலdதில் அமீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        280
+      ],
+      [
+        2,
+        1000,
+        1520
+      ],
+      [
+        3,
+        1800,
+        4880
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7ba",
+    "verse_key": "95:4",
+    "sura": 95,
+    "ayah": 4,
+    "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+    "words": [
+      {
+        "form": "la",
+        "tag": "EMPH",
+        "features": "PREFIX|l:EMPH+"
+      },
+      {
+        "form": "qado",
+        "tag": "CERT",
+        "features": "STEM|POS:CERT|LEM:qad"
+      },
+      {
+        "form": "xalaqo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:xalaqa|ROOT:xlq|1P"
+      },
+      {
+        "form": "naA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "<insa`na",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<insa`n|ROOT:Ans|M|ACC"
+      },
+      {
+        "form": "fiY^",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": ">aHosani",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aHosan|ROOT:Hsn|MS|GEN"
+      },
+      {
+        "form": "taqowiymK",
+        "tag": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqowiym|ROOT:qwm|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "لَقَدْ خَلَقْنَا",
+        "translation": "திட்டமாக படைத்தோம்"
+      },
+      {
+        "arabic": "الْاِنْسَانَ",
+        "translation": "மனிதனை"
+      },
+      {
+        "arabic": "فِىْۤ",
+        "translation": "இல்"
+      },
+      {
+        "arabic": "اَحْسَنِ",
+        "translation": "மிக அழகிய"
+      },
+      {
+        "arabic": "تَقْوِيْمٍ‏",
+        "translation": "அமைப்பு"
+      }
+    ],
+    "tamil_pj": "மனிதனை அழகிய வடிவில் படைத்தோம்.368",
+    "transliteration_tamil": "லqகdத் khகலqக்னல் இன்ஸான Fபீe அஹ்ஸனி தqக்வீம்.",
+    "segments": [
+      [
+        1,
+        0,
+        240
+      ],
+      [
+        2,
+        530,
+        630
+      ],
+      [
+        3,
+        1600,
+        3080
+      ],
+      [
+        4,
+        3290,
+        3390
+      ],
+      [
+        5,
+        5320,
+        5600
+      ],
+      [
+        6,
+        5760,
+        8760
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7bb",
+    "verse_key": "95:5",
+    "sura": 95,
+    "ayah": 5,
+    "arabic": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+    "words": [
+      {
+        "form": "vum~a",
+        "tag": "CONJ",
+        "features": "STEM|POS:CONJ|LEM:vum~"
+      },
+      {
+        "form": "radado",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:rad~a|ROOT:rdd|1P"
+      },
+      {
+        "form": "na`",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "hu",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      },
+      {
+        "form": ">asofala",
+        "tag": "LOC",
+        "features": "STEM|POS:LOC|LEM:>asofal|ROOT:sfl|MS|ACC"
+      },
+      {
+        "form": "sa`filiyna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAfil|ROOT:sfl|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "ثُمَّ",
+        "translation": "பிறகு"
+      },
+      {
+        "arabic": "رَدَدْنٰهُ",
+        "translation": "அவனைத் திருப்பினோம்"
+      },
+      {
+        "arabic": "اَسْفَلَ",
+        "translation": "மிகத் தாழ்ந்தவனாக"
+      },
+      {
+        "arabic": "سَافِلِيْنَۙ‏",
+        "translation": "தாழ்ந்தோரில்"
+      }
+    ],
+    "tamil_pj": "பின்னர் அவனை இழிந்தவனிலும் இழிந்தவனாக்கினோம்.",
+    "transliteration_tamil": "Thஸும்ம ரdதdத்னாhஹு அஸ்Fபல ஸாFபிலீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        1040
+      ],
+      [
+        2,
+        1320,
+        2280
+      ],
+      [
+        3,
+        2480,
+        3200
+      ],
+      [
+        4,
+        3320,
+        7040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7bc",
+    "verse_key": "95:6",
+    "sura": 95,
+    "ayah": 6,
+    "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+    "words": [
+      {
+        "form": "<il~aA",
+        "tag": "EXP",
+        "features": "STEM|POS:EXP|LEM:<il~aA"
+      },
+      {
+        "form": "{l~a*iyna",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MP"
+      },
+      {
+        "form": "'aAmanu",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|3MP"
+      },
+      {
+        "form": "wA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "Eamilu",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eamila|ROOT:Eml|3MP"
+      },
+      {
+        "form": "wA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "S~a`liHa`ti",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:S~a`liHa`t|ROOT:SlH|FP|ACC"
+      },
+      {
+        "form": "fa",
+        "tag": "REM",
+        "features": "PREFIX|f:REM+"
+      },
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "humo",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3MP"
+      },
+      {
+        "form": ">ajorN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      {
+        "form": "gayoru",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:gayor|ROOT:gyr|M|NOM"
+      },
+      {
+        "form": "mamonuwnK",
+        "tag": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mamonuwn|ROOT:mnn|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِلَّا",
+        "translation": "தவிர"
+      },
+      {
+        "arabic": "الَّذِيْنَ اٰمَنُوْا",
+        "translation": "நம்பிக்கை கொண்டவர்கள்"
+      },
+      {
+        "arabic": "وَعَمِلُوا",
+        "translation": "இன்னும் செய்தார்கள்"
+      },
+      {
+        "arabic": "الصّٰلِحٰتِ",
+        "translation": "நற்செயல்களை"
+      },
+      {
+        "arabic": "فَلَهُمْ",
+        "translation": "ஆகவே அவர்களுக்கு"
+      },
+      {
+        "arabic": "اَجْرٌ",
+        "translation": "நன்மை"
+      },
+      {
+        "arabic": "غَيْرُ مَمْنُوْنٍؕ‏",
+        "translation": "முடிவுறாத"
+      }
+    ],
+    "tamil_pj": "நம்பிக்கை கொண்டு நல்லறம் செய்தோரைத் தவிர. அவர்களுக்கு முடிவு இல்லாத கூலி உண்டு.",
+    "transliteration_tamil": "இல்ல-ல்லdhதீன ஆமனூ வoஅமிலுsஸ் sஸாலிஹாதி Fபலhஹும் அஜ்ருன் ghகைரு மம்னூன்.",
+    "segments": [
+      [
+        1,
+        0,
+        440
+      ],
+      [
+        2,
+        720,
+        1120
+      ],
+      [
+        3,
+        1960,
+        2280
+      ],
+      [
+        4,
+        2520,
+        3280
+      ],
+      [
+        5,
+        3600,
+        4600
+      ],
+      [
+        6,
+        4800,
+        5240
+      ],
+      [
+        7,
+        5800,
+        6080
+      ],
+      [
+        8,
+        6330,
+        6430
+      ],
+      [
+        9,
+        6960,
+        10640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7bd",
+    "verse_key": "95:7",
+    "sura": 95,
+    "ayah": 7,
+    "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "REM",
+        "features": "PREFIX|f:REM+"
+      },
+      {
+        "form": "maA",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": "yuka*~ibu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:ka*~aba|ROOT:k*b|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "baEodu",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:baEod|ROOT:bEd"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَمَا يُكَذِّبُكَ",
+        "translation": "ஆகவே யார்தான் உம்மை பொய்ப்பிப்பார்"
+      },
+      {
+        "arabic": "بَعْدُ",
+        "translation": "(இதற்குப்) பின்னர்"
+      },
+      {
+        "arabic": "بِالدِّيْنِ‏",
+        "translation": "மார்க்கத்தில்"
+      }
+    ],
+    "tamil_pj": "இதன் பின்னர் தீர்ப்பு நாளை1 உம்மால் எப்படிப் பொய்யெனக் கருத முடியும்?",
+    "transliteration_tamil": "Fபமா யுகdhத்dhதிபுக பoஃdது பிdத்dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        800,
+        1600
+      ],
+      [
+        3,
+        1760,
+        2320
+      ],
+      [
+        4,
+        2400,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7be",
+    "verse_key": "95:8",
+    "sura": 95,
+    "ayah": 8,
+    "arabic": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+    "words": [
+      {
+        "form": ">a",
+        "tag": "INTG",
+        "features": "PREFIX|A:INTG+"
+      },
+      {
+        "form": "layosa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:l~ayosa|ROOT:lys|SP:kaAn|3MS"
+      },
+      {
+        "form": "{ll~ahu",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|NOM"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": ">aHokami",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aHokam|ROOT:Hkm|MS|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Ha`kimiyna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:Ha`kimiyn|ROOT:Hkm|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اَلَيْسَ",
+        "translation": "இல்லையா?"
+      },
+      {
+        "arabic": "اللّٰهُ",
+        "translation": "அல்லாஹ்"
+      },
+      {
+        "arabic": "بِاَحْكَمِ",
+        "translation": "மிக மேலான தீர்ப்பளிப்பவனாக"
+      },
+      {
+        "arabic": "الْحٰكِمِيْنَ‏",
+        "translation": "தீர்ப்பளிப்பவர்களில்"
+      }
+    ],
+    "tamil_pj": "தீர்ப்பளிப்போரில் அல்லாஹ் மேலான தீர்ப்பளிப்பவன் இல்லையா?",
+    "transliteration_tamil": "அலைஸ-ல்லாhஹு பிஅஹ்கமில் ஹாகிமீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        640
+      ],
+      [
+        2,
+        930,
+        1030
+      ],
+      [
+        3,
+        1760,
+        2720
+      ],
+      [
+        4,
+        3040,
+        13120
+      ]
+    ]
+  }
+]

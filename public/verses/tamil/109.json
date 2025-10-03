@@ -1,0 +1,581 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553fa",
+    "verse_key": "109:300",
+    "tamil_pj": "அத்தியாயம் : 109 அல் காஃபிரூன்\r\nமொத்த வசனங்கள் : 6\r\nஅல் காஃபிரூன் - மறுப்போர்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அல் காஃபிரூன் என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f646",
+    "verse_key": "109:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 109,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e824",
+    "verse_key": "109:1",
+    "sura": 109,
+    "ayah": 1,
+    "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+    "words": [
+      {
+        "form": "qulo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaAla|ROOT:qwl|2MS"
+      },
+      {
+        "form": "ya`^",
+        "tag": "VOC",
+        "features": "PREFIX|ya+"
+      },
+      {
+        "form": ">ay~uhaA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>ay~uhaA|NOM"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "ka`firuwna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`firuwn|ROOT:kfr|MP|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "قُلْ",
+        "translation": "கூறுவீராக"
+      },
+      {
+        "arabic": "يٰۤاَيُّهَا الْكٰفِرُوْنَۙ‏",
+        "translation": "நிராகரிப்பாளர்களே"
+      }
+    ],
+    "tamil_pj": "(ஏகஇறைவனை) மறுப்பவர்களே!'' நீங்கள் வணங்குவதை நான் வணங்க மாட்டேன். நான் வணங்குபவனை நீங்கள் வணங்குவோரில்லை. நீங்கள் வணங்குவதை நான் வணங்குபவன் அல்லன். நான் வணங்குபவனை நீங்கள் வணங்குவோரில்லை. உங்கள் மார்க்கம் உங்களுக்கு. என் மார்க்கம் எனக்கு'' எனக் கூறுவீராக!26",
+    "transliteration_tamil": "Qகுல் யாaஅய்யுhஹல் காFபிரூன்.",
+    "segments": [
+      [
+        1,
+        99,
+        399
+      ],
+      [
+        2,
+        500,
+        3339
+      ],
+      [
+        3,
+        3439,
+        7439
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e825",
+    "verse_key": "109:2",
+    "sura": 109,
+    "ayah": 2,
+    "arabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+    "words": [
+      {
+        "form": "laA^",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": ">aEobudu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eabada|ROOT:Ebd|1S"
+      },
+      {
+        "form": "maA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "taEobudu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eabada|ROOT:Ebd|2MP"
+      },
+      {
+        "form": "wna",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "لَاۤ اَعْبُدُ",
+        "translation": "நான் வணங்க மாட்டேன்"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "எவற்றை"
+      },
+      {
+        "arabic": "تَعْبُدُوْنَۙ‏",
+        "translation": "நீங்கள் வணங்குகின்றீர்கள்"
+      }
+    ],
+    "transliteration_tamil": "லாa அoஃபுdது மா தoஃபுdதூன்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        2360,
+        3320
+      ],
+      [
+        3,
+        3370,
+        3470
+      ],
+      [
+        4,
+        3720,
+        7480
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e826",
+    "verse_key": "109:3",
+    "sura": 109,
+    "ayah": 3,
+    "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "laA^",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": ">antumo",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|2MP"
+      },
+      {
+        "form": "Ea`biduwna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:EaAbid|ROOT:Ebd|MP|NOM"
+      },
+      {
+        "form": "maA^",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": ">aEobudu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eabada|ROOT:Ebd|1S"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَلَاۤ اَنْـتُمْ",
+        "translation": "இன்னும் நீங்கள் இல்லை"
+      },
+      {
+        "arabic": "عٰبِدُوْنَ",
+        "translation": "வணங்குபவர்களாக"
+      },
+      {
+        "arabic": "مَاۤ",
+        "translation": "எவனை"
+      },
+      {
+        "arabic": "اَعْبُدُ‌ ۚ‏",
+        "translation": "நான் வணங்குகின்றேன்"
+      }
+    ],
+    "transliteration_tamil": "வலாa அன்தும் oஆபிdதூன மாa அoஃபுdத்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        2120,
+        3160
+      ],
+      [
+        3,
+        3760,
+        4680
+      ],
+      [
+        4,
+        5090,
+        5190
+      ],
+      [
+        5,
+        6720,
+        8280
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e827",
+    "verse_key": "109:4",
+    "sura": 109,
+    "ayah": 4,
+    "arabic": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "laA^",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": ">anaA",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|1S"
+      },
+      {
+        "form": "EaAbidN",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:EaAbid|ROOT:Ebd|M|INDEF|NOM"
+      },
+      {
+        "form": "m~aA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "Eabad",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eabada|ROOT:Ebd|2MP"
+      },
+      {
+        "form": "t~umo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَلَاۤ اَنَا",
+        "translation": "இன்னும் நான் இல்லை"
+      },
+      {
+        "arabic": "عَابِدٌ",
+        "translation": "வணங்குபவனாக"
+      },
+      {
+        "arabic": "مَّا",
+        "translation": "எவற்றை"
+      },
+      {
+        "arabic": "عَبَدْتُّمْۙ‏",
+        "translation": "நீங்கள் வணங்கினீர்கள்"
+      }
+    ],
+    "transliteration_tamil": "வலாa அன oஆபிdதும் மா oஅபத்தும்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        2040,
+        2480
+      ],
+      [
+        3,
+        2680,
+        3440
+      ],
+      [
+        4,
+        4210,
+        4310
+      ],
+      [
+        5,
+        4880,
+        5680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e828",
+    "verse_key": "109:5",
+    "sura": 109,
+    "ayah": 5,
+    "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "laA^",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": ">antumo",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|2MP"
+      },
+      {
+        "form": "Ea`biduwna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:EaAbid|ROOT:Ebd|MP|NOM"
+      },
+      {
+        "form": "maA^",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": ">aEobudu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eabada|ROOT:Ebd|1S"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَ لَاۤ اَنْـتُمْ",
+        "translation": "இன்னும் நீங்கள் இல்லை"
+      },
+      {
+        "arabic": "عٰبِدُوْنَ",
+        "translation": "வணங்குபவர்களாக"
+      },
+      {
+        "arabic": "مَاۤ",
+        "translation": "எவனை"
+      },
+      {
+        "arabic": "اَعْبُدُ ؕ‏",
+        "translation": "நான் வணங்குகின்றேன்"
+      }
+    ],
+    "transliteration_tamil": "வலாa அன்தும் oஆபிdதூன மாa அoஃபுdத்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        99,
+        2180
+      ],
+      [
+        2,
+        2200,
+        3819
+      ],
+      [
+        3,
+        3899,
+        5039
+      ],
+      [
+        4,
+        5279,
+        6299
+      ],
+      [
+        5,
+        7279,
+        8399
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e829",
+    "verse_key": "109:6",
+    "sura": 109,
+    "ayah": 6,
+    "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "words": [
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "kumo",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|2MP"
+      },
+      {
+        "form": "diynu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|NOM"
+      },
+      {
+        "form": "kumo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "li",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "Ya",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|1S"
+      },
+      {
+        "form": "diyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "لَـكُمْ",
+        "translation": "உங்களுக்கு"
+      },
+      {
+        "arabic": "دِيْنُكُمْ",
+        "translation": "உங்கள் கூலி"
+      },
+      {
+        "arabic": "وَلِىَ",
+        "translation": "இன்னும் எனக்கு"
+      },
+      {
+        "arabic": "دِيْنِ‏",
+        "translation": "என் கூலி"
+      }
+    ],
+    "transliteration_tamil": "லகும் dதீனுகும் வலிய dதீன்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        320
+      ],
+      [
+        2,
+        640,
+        1440
+      ],
+      [
+        3,
+        1800,
+        2400
+      ],
+      [
+        4,
+        2600,
+        6280
+      ]
+    ]
+  }
+]

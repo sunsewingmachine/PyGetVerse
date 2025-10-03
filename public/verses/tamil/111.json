@@ -1,0 +1,514 @@
+[
+  {
+    "_id": "685cd884ceccc56a1335537c",
+    "verse_key": "111:300",
+    "tamil_pj": "அத்தியாயம் : 111 தப்பத்\t\r\nமொத்த வசனங்கள் : 5\t\r\nதப்பத் - அழிந்தது\t\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் தப்பத் என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f648",
+    "verse_key": "111:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 111,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e82d",
+    "verse_key": "111:1",
+    "sura": 111,
+    "ayah": 1,
+    "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+    "words": [
+      {
+        "form": "tab~ato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:tab~a|ROOT:tbb|3FS"
+      },
+      {
+        "form": "yadaA^",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yad|ROOT:ydy|FD|NOM"
+      },
+      {
+        "form": ">abiY",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      {
+        "form": "lahabK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:lahab|ROOT:lhb|M|INDEF|GEN"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "tab~a",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:tab~a|ROOT:tbb|3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "تَبَّتْ",
+        "translation": "அழியட்டும்"
+      },
+      {
+        "arabic": "يَدَاۤ",
+        "translation": "இரு கரங்கள்"
+      },
+      {
+        "arabic": "اَبِىْ لَهَبٍ",
+        "translation": "அபூலஹபின்"
+      },
+      {
+        "arabic": "وَّتَبَّؕ‏",
+        "translation": "இன்னும் அவன் அழியட்டும்"
+      }
+    ],
+    "tamil_pj": "அபூலஹபுடைய இரு கைகளும் அழிந்தன. அவனும் அழிந்தான்.",
+    "transliteration_tamil": "தப்பத் யdதாa அபீ லhஹபிவ் வதப்.",
+    "segments": [
+      [
+        1,
+        99,
+        799
+      ],
+      [
+        2,
+        899,
+        1979
+      ],
+      [
+        3,
+        3339,
+        3919
+      ],
+      [
+        4,
+        3980,
+        4460
+      ],
+      [
+        5,
+        5819,
+        7359
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e82e",
+    "verse_key": "111:2",
+    "sura": 111,
+    "ayah": 2,
+    "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "words": [
+      {
+        "form": "maA^",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:maA"
+      },
+      {
+        "form": ">agonaY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:>agonaY`|ROOT:gny|3MS"
+      },
+      {
+        "form": "Eano",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:Ean"
+      },
+      {
+        "form": "hu",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      },
+      {
+        "form": "maAlu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      {
+        "form": "hu,",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "maA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "kasaba",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:kasaba|ROOT:ksb|3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "مَاۤ اَغْنٰى",
+        "translation": "பலனளிக்கவில்லை"
+      },
+      {
+        "arabic": "عَنْهُ",
+        "translation": "அவனுக்கு"
+      },
+      {
+        "arabic": "مَالُهٗ",
+        "translation": "அவனுடைய செல்வமும்"
+      },
+      {
+        "arabic": "وَمَا",
+        "translation": "இன்னும் எது"
+      },
+      {
+        "arabic": "كَسَبَؕ‏",
+        "translation": "அவன் சம்பாதித்தான்"
+      }
+    ],
+    "tamil_pj": "அவனது செல்வமும், அவன் செய்தவையும் அவனைக் காக்கவில்லை.",
+    "transliteration_tamil": "மாa அghக்னா oஅன்hஹு மாலுhஹூ வமா கஸப்.",
+    "segments": [
+      [
+        1,
+        59,
+        2379
+      ],
+      [
+        2,
+        2399,
+        3199
+      ],
+      [
+        3,
+        3240,
+        3819
+      ],
+      [
+        4,
+        3939,
+        4960
+      ],
+      [
+        5,
+        5039,
+        5619
+      ],
+      [
+        6,
+        5679,
+        7119
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e82f",
+    "verse_key": "111:3",
+    "sura": 111,
+    "ayah": 3,
+    "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+    "words": [
+      {
+        "form": "sa",
+        "tag": "FUT",
+        "features": "PREFIX|sa+"
+      },
+      {
+        "form": "yaSolaY`",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaSolaY|ROOT:Sly|3MS"
+      },
+      {
+        "form": "naArFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:naAr|ROOT:nwr|F|INDEF|ACC"
+      },
+      {
+        "form": "*aAta",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:*uw|FS|ACC"
+      },
+      {
+        "form": "lahabK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:lahab|ROOT:lhb|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "سَيَصْلٰى",
+        "translation": "(விரைவில்) பற்றி எரிவார்கள்"
+      },
+      {
+        "arabic": "نَارًا",
+        "translation": "நெருப்பில்"
+      },
+      {
+        "arabic": "ذَاتَ لَهَبٍ ۖۚ‏",
+        "translation": "ஜுவாலையுடைய"
+      }
+    ],
+    "tamil_pj": "கொழுந்து விட்டெரியும் நெருப்பில் அவனும், விறகு சுமக்கும் அவனது மனைவியும் கருகுவார்கள்.26",
+    "transliteration_tamil": "ஸயsஸ்லா நாரன் dhதாத லhஹப்.",
+    "segments": [
+      [
+        1,
+        59,
+        1120
+      ],
+      [
+        2,
+        1199,
+        1779
+      ],
+      [
+        3,
+        3039,
+        3679
+      ],
+      [
+        4,
+        3740,
+        5139
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e830",
+    "verse_key": "111:4",
+    "sura": 111,
+    "ayah": 4,
+    "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "{mora>atu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{mora>at|ROOT:mrA|F|NOM"
+      },
+      {
+        "form": "hu,",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      },
+      {
+        "form": "Ham~aAlapa",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:Ham~aAlap|ROOT:Hml|FS|ACC"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "HaTabi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:HaTab|ROOT:HTb|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَّامْرَاَ تُهٗ ؕ",
+        "translation": "இன்னும் அவனுடைய மனைவி"
+      },
+      {
+        "arabic": "حَمَّالَةَ",
+        "translation": "சுமப்பவள்"
+      },
+      {
+        "arabic": "الْحَطَبِ‌ۚ‏",
+        "translation": "விறகு சுள்ளிகளை"
+      }
+    ],
+    "transliteration_tamil": "வம்ரஅதுhஹூ, ஹம்மாலதல் ஹTதப்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        1200
+      ],
+      [
+        2,
+        1480,
+        3680
+      ],
+      [
+        3,
+        4080,
+        5640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e831",
+    "verse_key": "111:5",
+    "sura": 111,
+    "ayah": 5,
+    "arabic": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+    "words": [
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "jiydi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:jiyd|ROOT:jyd|M|GEN"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      },
+      {
+        "form": "HabolN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Habol|ROOT:Hbl|M|INDEF|NOM"
+      },
+      {
+        "form": "m~in",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "m~asadK]",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:m~asad|ROOT:msd|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فِىْ جِيْدِهَا",
+        "translation": "அவளுடைய கழுத்தில்"
+      },
+      {
+        "arabic": "حَبْلٌ",
+        "translation": "கயிறுதான்"
+      },
+      {
+        "arabic": "مِّنْ مَّسَدٍ‏",
+        "translation": "ஈச்சம் பாளையின்"
+      }
+    ],
+    "tamil_pj": "அவள் கழுத்தில் முறுக்கேறிய ஈச்சமரக் கயிறு உள்ளது.356",
+    "transliteration_tamil": "Fபீ ஜீdதிhஹா ஹப்லும் மிம் மஸdத்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        320,
+        1160
+      ],
+      [
+        3,
+        1440,
+        2080
+      ],
+      [
+        4,
+        3170,
+        3270
+      ],
+      [
+        5,
+        4360,
+        6480
+      ]
+    ]
+  }
+]

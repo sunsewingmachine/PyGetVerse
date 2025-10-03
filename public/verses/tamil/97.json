@@ -1,0 +1,650 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553ee",
+    "verse_key": "97:300",
+    "tamil_pj": "அத்தியாயம் : 97 அல்கத்ர்\r\nமொத்த வசனங்கள் : 5\r\nஅல்கத்ர் - மகத்துவம்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அல் கத்ர் என்ற சொல் இடம் பெற்றிருப்பதால் இந்தப் பெயர் வைக்கப்பட்டுள்ளது."
+  },
+  {
+    "_id": "684aeee6b72c6e8a6bb3f63b",
+    "verse_key": "97:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 97,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7d2",
+    "verse_key": "97:1",
+    "sura": 97,
+    "ayah": 1,
+    "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "A^",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": ">anzalo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anzala|ROOT:nzl|1P"
+      },
+      {
+        "form": "na`",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "hu",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "layolapi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "qadori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّاۤ",
+        "translation": "நிச்சயமாக நாம்"
+      },
+      {
+        "arabic": "اَنْزَلْنٰهُ",
+        "translation": "இதை இறக்கினோம்"
+      },
+      {
+        "arabic": "فِىْ لَيْلَةِ",
+        "translation": "இரவில்"
+      },
+      {
+        "arabic": "الْقَدْرِ ۖ ۚ‏",
+        "translation": "கத்ரு"
+      }
+    ],
+    "tamil_pj": "மகத்துவமிக்க இரவில்447 இதை (குர்ஆனை) நாம் அருளினோம்.",
+    "transliteration_tamil": "இன்னாa அன்zஸல்னாhஹு Fபீ லைலதில் qகdத்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        1320
+      ],
+      [
+        2,
+        2760,
+        5160
+      ],
+      [
+        3,
+        5370,
+        5470
+      ],
+      [
+        4,
+        5840,
+        6520
+      ],
+      [
+        5,
+        6680,
+        8000
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7d3",
+    "verse_key": "97:2",
+    "sura": 97,
+    "ayah": 2,
+    "arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "maA^",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": ">adoraY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "maA",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": "layolapu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|NOM"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "qadori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمَاۤ",
+        "translation": "எது"
+      },
+      {
+        "arabic": "اَدْرٰٮكَ",
+        "translation": "உமக்கு அறிவித்தது"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "என்ன(வென்று)"
+      },
+      {
+        "arabic": "لَيْلَةُ الْقَدْرِؕ‏",
+        "translation": "லைலத்துல் கத்ரு"
+      }
+    ],
+    "tamil_pj": "மகத்துவமிக்க இரவு என்றால் என்னவென உமக்கு எப்படித் தெரியும்?",
+    "transliteration_tamil": "வமாa அdத்ராக மா லைலதுல் qகdத்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        2320,
+        3000
+      ],
+      [
+        3,
+        3170,
+        3270
+      ],
+      [
+        4,
+        3600,
+        4280
+      ],
+      [
+        5,
+        4400,
+        6040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7d4",
+    "verse_key": "97:3",
+    "sura": 97,
+    "ayah": 3,
+    "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "words": [
+      {
+        "form": "layolapu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|NOM"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "qadori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      {
+        "form": "xayorN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:xayor|ROOT:xyr|MS|INDEF|NOM"
+      },
+      {
+        "form": "m~ino",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": ">alofi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>alof|ROOT:Alf|M|GEN"
+      },
+      {
+        "form": "$ahorK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ahor|ROOT:$hr|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "لَيْلَةُ الْقَدْرِ  ۙ",
+        "translation": "லைலத்துல் கத்ரு"
+      },
+      {
+        "arabic": "خَيْرٌ",
+        "translation": "சிறந்தது"
+      },
+      {
+        "arabic": "مِّنْ",
+        "translation": "விட"
+      },
+      {
+        "arabic": "اَلْفِ",
+        "translation": "ஆயிரம்"
+      },
+      {
+        "arabic": "شَهْرٍؕ‏",
+        "translation": "மாதங்கள்"
+      }
+    ],
+    "tamil_pj": "மகத்துவமிக்க இரவு ஆயிரம் மாதங்களை விடச் சிறந்தது.",
+    "transliteration_tamil": "லைலதுல் qகdத்ரி khகைரும் மின் அல்Fபி ஷhஹ்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        880,
+        1600
+      ],
+      [
+        3,
+        1680,
+        2200
+      ],
+      [
+        4,
+        3010,
+        3110
+      ],
+      [
+        5,
+        3640,
+        4120
+      ],
+      [
+        6,
+        4320,
+        5600
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7d5",
+    "verse_key": "97:4",
+    "sura": 97,
+    "ayah": 4,
+    "arabic": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "words": [
+      {
+        "form": "tanaz~alu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:tanaz~alato|ROOT:nzl|3FS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "mala`^}ikapu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:malak|ROOT:mlk|MP|NOM"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~uwHu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:ruwH|ROOT:rwH|M|NOM"
+      },
+      {
+        "form": "fiy",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "<i*oni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<i*on|ROOT:A*n|M|GEN"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "him",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "m~in",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "kul~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:kul~|ROOT:kll|M|GEN"
+      },
+      {
+        "form": ">amorK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>amor|ROOT:Amr|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "تَنَزَّلُ",
+        "translation": "இறங்குகிறார்கள்"
+      },
+      {
+        "arabic": "الْمَلٰٓٮِٕكَةُ",
+        "translation": "வானவர்களும்"
+      },
+      {
+        "arabic": "وَالرُّوْحُ",
+        "translation": "ஜிப்ரீலும்"
+      },
+      {
+        "arabic": "فِيْهَا",
+        "translation": "அதில்"
+      },
+      {
+        "arabic": "بِاِذْنِ",
+        "translation": "அனுமதி கொண்டு"
+      },
+      {
+        "arabic": "رَبِّهِمْ‌ۚ",
+        "translation": "தங்கள் இறைவனின்"
+      },
+      {
+        "arabic": "مِّنْ",
+        "translation": "உடன்"
+      },
+      {
+        "arabic": "كُلِّ",
+        "translation": "எல்லா"
+      },
+      {
+        "arabic": "اَمْرٍ ۛۙ‏",
+        "translation": "கட்டளைகள்"
+      }
+    ],
+    "tamil_pj": "வானவர்களும், ரூஹும்444 அதில் தமது இறைவனின் கட்டளைப்படி ஒவ்வொரு காரியத்துடனும் இறங்குகின்றனர்.",
+    "transliteration_tamil": "தனzஸ்zஸலுல் மலாaaஇகது வர்ரூஹு Fபீhஹா பிஇdhத்னி ரப்பிhஹிம் மின் குல்லி அம்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        920
+      ],
+      [
+        2,
+        1240,
+        3800
+      ],
+      [
+        3,
+        3960,
+        4880
+      ],
+      [
+        4,
+        5040,
+        5440
+      ],
+      [
+        5,
+        5970,
+        6070
+      ],
+      [
+        6,
+        6960,
+        7600
+      ],
+      [
+        7,
+        8010,
+        8110
+      ],
+      [
+        8,
+        9130,
+        9230
+      ],
+      [
+        9,
+        10040,
+        11120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7d6",
+    "verse_key": "97:5",
+    "sura": 97,
+    "ayah": 5,
+    "arabic": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "words": [
+      {
+        "form": "sala`mN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:sala`m|ROOT:slm|M|INDEF|NOM"
+      },
+      {
+        "form": "hiYa",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3FS"
+      },
+      {
+        "form": "Hat~aY`",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:Hat~aY`"
+      },
+      {
+        "form": "maTolaEi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:maTolaE|ROOT:TlE|M|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "fajori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:fajor|ROOT:fjr|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "سَلٰمٌ",
+        "translation": "ஈடேற்றம் உண்டாகுக"
+      },
+      {
+        "arabic": " ۛهِىَ",
+        "translation": "அது"
+      },
+      {
+        "arabic": "حَتّٰى",
+        "translation": "வரை"
+      },
+      {
+        "arabic": "مَطْلَعِ",
+        "translation": "உதயமாகும்"
+      },
+      {
+        "arabic": "الْفَجْرِ‏",
+        "translation": "அதிகாலை"
+      }
+    ],
+    "tamil_pj": "ஸலாம்!159 இது கிழக்கு வெளுக்கும் வரை இருக்கும்.",
+    "transliteration_tamil": "ஸலாமுன் hஹிய ஹத்தா மTத்லoஇல் Fபஜ்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        800
+      ],
+      [
+        2,
+        1090,
+        1190
+      ],
+      [
+        3,
+        1560,
+        2040
+      ],
+      [
+        4,
+        2360,
+        3320
+      ],
+      [
+        5,
+        3600,
+        5280
+      ]
+    ]
+  }
+]

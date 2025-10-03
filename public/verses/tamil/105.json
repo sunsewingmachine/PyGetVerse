@@ -1,0 +1,538 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553f6",
+    "verse_key": "105:300",
+    "tamil_pj": "அத்தியாயம் : 105 அல் ஃபீல்\r\nமொத்த வசனங்கள் : 5\r\nஅல் ஃபீல் - யானை\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் யானை என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டுள்ளது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f642",
+    "verse_key": "105:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 105,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e811",
+    "verse_key": "105:1",
+    "sura": 105,
+    "ayah": 1,
+    "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "words": [
+      {
+        "form": ">a",
+        "tag": "INTG",
+        "features": "PREFIX|A:INTG+"
+      },
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "tara",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ra'aA|ROOT:rAy|2MS|MOOD:JUS"
+      },
+      {
+        "form": "kayofa",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:kayof|ROOT:kyf"
+      },
+      {
+        "form": "faEala",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      {
+        "form": "rab~u",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|NOM"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": ">aSoHa`bi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "fiyli",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:fiyl|ROOT:fyl|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اَلَمْ تَرَ",
+        "translation": "நீர் பார்க்கவில்லையா?"
+      },
+      {
+        "arabic": "كَيْفَ",
+        "translation": "எப்படி"
+      },
+      {
+        "arabic": "فَعَلَ",
+        "translation": "செய்தான்"
+      },
+      {
+        "arabic": "رَبُّكَ",
+        "translation": "உம் இறைவன்"
+      },
+      {
+        "arabic": "بِاَصْحٰبِ الْفِيْلِؕ‏",
+        "translation": "யானைப் படைகளை"
+      }
+    ],
+    "tamil_pj": "யானைப் படையை உமது இறைவன் எப்படி ஆக்கினான் என்பதை நீர் அறியவில்லையா?",
+    "transliteration_tamil": "அலம் தர கைFப Fபoஅல ரப்புக பிஅsஸ்ஹாபில் Fபீல்.",
+    "segments": [
+      [
+        1,
+        0,
+        480
+      ],
+      [
+        2,
+        570,
+        670
+      ],
+      [
+        3,
+        1080,
+        1480
+      ],
+      [
+        4,
+        1680,
+        2200
+      ],
+      [
+        5,
+        2720,
+        3040
+      ],
+      [
+        6,
+        3240,
+        4360
+      ],
+      [
+        7,
+        4560,
+        8000
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e812",
+    "verse_key": "105:2",
+    "sura": 105,
+    "ayah": 2,
+    "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+    "words": [
+      {
+        "form": ">a",
+        "tag": "INTG",
+        "features": "PREFIX|A:INTG+"
+      },
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "yajoEalo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jaEala|ROOT:jEl|3MS|MOOD:JUS"
+      },
+      {
+        "form": "kayoda",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:kayod|ROOT:kyd|M|ACC"
+      },
+      {
+        "form": "humo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "taDoliylK",
+        "tag": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taDoliyl|ROOT:Dll|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اَلَمْ يَجْعَلْ",
+        "translation": "அவன் ஆக்கவில்லையா"
+      },
+      {
+        "arabic": "كَيْدَ",
+        "translation": "சூழ்ச்சியை"
+      },
+      {
+        "arabic": "هُمْ",
+        "translation": "அவர்களுடைய"
+      },
+      {
+        "arabic": "فِىْ تَضْلِيْلٍۙ‏",
+        "translation": "வீணாக"
+      }
+    ],
+    "tamil_pj": "அவர்களின் சூழ்ச்சியை அவன் தோல்வியில் முடிக்கவில்லையா?464",
+    "transliteration_tamil": "அலம் யஜ்oஅல் கைdதhஹும் Fபீ தDள்லீல்.",
+    "segments": [
+      [
+        1,
+        0,
+        520
+      ],
+      [
+        2,
+        640,
+        1000
+      ],
+      [
+        3,
+        1480,
+        2160
+      ],
+      [
+        4,
+        2450,
+        2550
+      ],
+      [
+        5,
+        2920,
+        6320
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e813",
+    "verse_key": "105:3",
+    "sura": 105,
+    "ayah": 3,
+    "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": ">arosala",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>arosala|ROOT:rsl|3MS"
+      },
+      {
+        "form": "Ealayo",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:EalaY`"
+      },
+      {
+        "form": "himo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "TayorFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Tayor|ROOT:Tyr|MP|INDEF|ACC"
+      },
+      {
+        "form": ">abaAbiyla",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>abaAbiyl|ROOT:Abl|MP|INDEF|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَّاَرْسَلَ",
+        "translation": "இன்னும் அனுப்பினான்"
+      },
+      {
+        "arabic": "عَلَيْهِمْ",
+        "translation": "அவர்கள் மீது"
+      },
+      {
+        "arabic": "طَيْرًا",
+        "translation": "பறவைகளை"
+      },
+      {
+        "arabic": "اَبَابِيْلَۙ‏",
+        "translation": "பல கூட்டங்களாக"
+      }
+    ],
+    "tamil_pj": "அவர்களுக்கு எதிராகப் பறவைகளைக் கூட்டம் கூட்டமாக அனுப்பினான்.",
+    "transliteration_tamil": "வஅர்ஸல oஅலைhஹிம் Tதைரன் அபாபீல்.",
+    "segments": [
+      [
+        1,
+        0,
+        960
+      ],
+      [
+        2,
+        1360,
+        1720
+      ],
+      [
+        3,
+        2040,
+        2640
+      ],
+      [
+        4,
+        2960,
+        6960
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e814",
+    "verse_key": "105:4",
+    "sura": 105,
+    "ayah": 4,
+    "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "words": [
+      {
+        "form": "taromiy",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ramaY`|ROOT:rmy|3FS"
+      },
+      {
+        "form": "him",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "HijaArapK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:HijaArap|ROOT:Hjr|F|INDEF|GEN"
+      },
+      {
+        "form": "m~in",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "sij~iylK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:sij~iyl|ROOT:sjl|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "تَرْمِيْهِمْ",
+        "translation": "அவர்களை எறிந்தன"
+      },
+      {
+        "arabic": "بِحِجَارَةٍ",
+        "translation": "கல்லைக் கொண்டு"
+      },
+      {
+        "arabic": "مِّنْ سِجِّيْلٍۙ‏",
+        "translation": "சுடப்பட்ட களிமண்ணின்"
+      }
+    ],
+    "tamil_pj": "சூடேற்றப்பட்ட கற்களை அவர்கள் மீது அவை வீசின.",
+    "transliteration_tamil": "தர்மீhஹிம் பிஹிஜாரதிம் மின் ஸிஜ்ஜீல்.",
+    "segments": [
+      [
+        1,
+        0,
+        1200
+      ],
+      [
+        2,
+        2000,
+        3280
+      ],
+      [
+        3,
+        4330,
+        4430
+      ],
+      [
+        4,
+        5400,
+        9360
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e815",
+    "verse_key": "105:5",
+    "sura": 105,
+    "ayah": 5,
+    "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "CONJ",
+        "features": "PREFIX|f:CONJ+"
+      },
+      {
+        "form": "jaEala",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:jaEala|ROOT:jEl|3MS"
+      },
+      {
+        "form": "humo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "ka",
+        "tag": "P",
+        "features": "PREFIX|ka+"
+      },
+      {
+        "form": "EaSofK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:EaSof|ROOT:ESf|M|INDEF|GEN"
+      },
+      {
+        "form": "m~a>okuwlK]",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~a>okuwl|ROOT:Akl|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَجَعَلَهُمْ",
+        "translation": "ஆகவே அவர்களை ஆக்கினான்"
+      },
+      {
+        "arabic": "كَعَصْفٍ",
+        "translation": "வைக்கோலைப் போன்று"
+      },
+      {
+        "arabic": "مَّاْكُوْلٍ‏",
+        "translation": "திண்ணப்படும்"
+      }
+    ],
+    "tamil_pj": "உடனே அவர்களை மெல்லப்பட்ட வைக்கோல் போல் ஆக்கினான்.355",
+    "transliteration_tamil": "Fபஜoஅலhஹும் கoஅsஸ்Fபிம் மஃகூல்.",
+    "segments": [
+      [
+        1,
+        0,
+        880
+      ],
+      [
+        2,
+        1200,
+        2040
+      ],
+      [
+        3,
+        3200,
+        9080
+      ]
+    ]
+  }
+]

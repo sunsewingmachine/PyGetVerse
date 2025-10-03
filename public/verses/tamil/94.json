@@ -1,0 +1,687 @@
+[
+  {
+    "_id": "685cde99ceccc56a133553eb",
+    "verse_key": "94:300",
+    "tamil_pj": "அத்தியாயம் : 94 அஷ்ஷரஹ்\r\nமொத்த வசனங்கள் : 8\r\nஅஷ்ஷரஹ் (அல் இன்ஷிராஹ்) - விரிவாக்குதல்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில், உமது உள்ளத்தை விரிவாக்கவில்லையா? என்று கூறப்படுவதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டுள்ளது."
+  },
+  {
+    "_id": "684aeee6b72c6e8a6bb3f638",
+    "verse_key": "94:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 94,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7af",
+    "verse_key": "94:1",
+    "sura": 94,
+    "ayah": 1,
+    "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "words": [
+      {
+        "form": ">a",
+        "tag": "INTG",
+        "features": "PREFIX|A:INTG+"
+      },
+      {
+        "form": "lamo",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:lam"
+      },
+      {
+        "form": "na$oraHo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$araHa|ROOT:$rH|1P|MOOD:JUS"
+      },
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|2MS"
+      },
+      {
+        "form": "Sadora",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Sador|ROOT:Sdr|M|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اَلَمْ نَشْرَحْ",
+        "translation": "நாம் விரிவாக்கவில்லையா"
+      },
+      {
+        "arabic": "لَـكَ",
+        "translation": "உமக்கு"
+      },
+      {
+        "arabic": "صَدْرَكَۙ‏",
+        "translation": "உம் நெஞ்சத்தை"
+      }
+    ],
+    "tamil_pj": "உமது உள்ளத்தை நாம் விரிவாக்கவில்லையா?",
+    "transliteration_tamil": "அலம் நஷ்ரஹ் லக sஸdத்ரக்.",
+    "segments": [
+      [
+        1,
+        0,
+        520
+      ],
+      [
+        2,
+        640,
+        1360
+      ],
+      [
+        3,
+        1690,
+        1790
+      ],
+      [
+        4,
+        1840,
+        3640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b0",
+    "verse_key": "94:2",
+    "sura": 94,
+    "ayah": 2,
+    "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "waDaEo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:waDaEa|ROOT:wDE|1P"
+      },
+      {
+        "form": "naA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "Ean",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:Ean"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "wizora",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:wizor|ROOT:wzr|F|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَوَضَعْنَا",
+        "translation": "இன்னும் அகற்றினோம்"
+      },
+      {
+        "arabic": "عَنْكَ",
+        "translation": "உம்மை விட்டு"
+      },
+      {
+        "arabic": "وِزْرَكَۙ‏",
+        "translation": "உம் சுமையை"
+      }
+    ],
+    "tamil_pj": "(முஹம்மதே!) உமது முதுகை முறித்துக் கொண்டிருந்த உமது சுமையை உம்மை விட்டும் நாம் இறக்கவில்லையா?26",
+    "transliteration_tamil": "வவDளoஃனா oஅன்க விzஸ்ரக்.",
+    "segments": [
+      [
+        1,
+        0,
+        960
+      ],
+      [
+        2,
+        1320,
+        2480
+      ],
+      [
+        3,
+        2760,
+        4440
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b1",
+    "verse_key": "94:3",
+    "sura": 94,
+    "ayah": 3,
+    "arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+    "words": [
+      {
+        "form": "{l~a*iY^",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MS"
+      },
+      {
+        "form": ">anqaDa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anqaDa|ROOT:nqD|3MS"
+      },
+      {
+        "form": "Zahora",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Zahor|ROOT:Zhr|M|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "الَّذِىْۤ",
+        "translation": "எது"
+      },
+      {
+        "arabic": "اَنْقَضَ",
+        "translation": "முறித்தது"
+      },
+      {
+        "arabic": "ظَهْرَكَۙ‏",
+        "translation": "உம் முதுகை"
+      }
+    ],
+    "transliteration_tamil": "அல்லdhதீe அன்qகDள ளhஹ்ரக்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        2480,
+        4080
+      ],
+      [
+        3,
+        4080,
+        5600
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b2",
+    "verse_key": "94:4",
+    "sura": 94,
+    "ayah": 4,
+    "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "rafaEo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      {
+        "form": "naA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|2MS"
+      },
+      {
+        "form": "*ikora",
+        "tag": "N",
+        "features": "STEM|POS:N|VN|LEM:*ikor|ROOT:*kr|M|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَرَفَعْنَا",
+        "translation": "இன்னும் உயர்த்தினோம்"
+      },
+      {
+        "arabic": "لَـكَ",
+        "translation": "உமக்கு"
+      },
+      {
+        "arabic": "ذِكْرَكَؕ‏",
+        "translation": "உம் நினைவை"
+      }
+    ],
+    "tamil_pj": "உமக்காக உமது புகழை உயர்த்தினோம்.",
+    "transliteration_tamil": "வரFபoஃனா லக dhதிக்ரக்.",
+    "segments": [
+      [
+        1,
+        0,
+        960
+      ],
+      [
+        2,
+        1530,
+        1630
+      ],
+      [
+        3,
+        1800,
+        3600
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b3",
+    "verse_key": "94:5",
+    "sura": 94,
+    "ayah": 5,
+    "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "CONJ",
+        "features": "PREFIX|f:CONJ+"
+      },
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "maEa",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:maE2"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Eusori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|GEN"
+      },
+      {
+        "form": "yusorFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yusor|ROOT:ysr|M|INDEF|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَاِنَّ",
+        "translation": "ஆகவே,நிச்சயமாக"
+      },
+      {
+        "arabic": "مَعَ",
+        "translation": "உடன்"
+      },
+      {
+        "arabic": "الْعُسْرِ",
+        "translation": "சிரமம்"
+      },
+      {
+        "arabic": "يُسْرًا ۙ‏",
+        "translation": "இலேசு"
+      }
+    ],
+    "tamil_pj": "சிரமத்துடன் தான் எளியதும் உள்ளது.",
+    "transliteration_tamil": "Fபஇன்ன மoஅல் oஉஸ்ரி யுஸ்ரா.",
+    "segments": [
+      [
+        1,
+        210,
+        310
+      ],
+      [
+        2,
+        1530,
+        1630
+      ],
+      [
+        3,
+        2000,
+        2800
+      ],
+      [
+        4,
+        2840,
+        4520
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b4",
+    "verse_key": "94:6",
+    "sura": 94,
+    "ayah": 6,
+    "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "maEa",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:maE2"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Eusori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|GEN"
+      },
+      {
+        "form": "yusorFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yusor|ROOT:ysr|M|INDEF|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّ",
+        "translation": "நிச்சயமாக"
+      },
+      {
+        "arabic": "مَعَ",
+        "translation": "உடன்"
+      },
+      {
+        "arabic": "الْعُسْرِ",
+        "translation": "சிரமம்"
+      },
+      {
+        "arabic": "يُسْرًا ؕ‏",
+        "translation": "இலேசு"
+      }
+    ],
+    "tamil_pj": "சிரமத்துடன் தான் எளியதும் உள்ளது.",
+    "transliteration_tamil": "இன்ன மoஅல் oஉஸ்ரி யுஸ்ரா.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1290,
+        1390
+      ],
+      [
+        3,
+        1760,
+        2560
+      ],
+      [
+        4,
+        2600,
+        4200
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b5",
+    "verse_key": "94:7",
+    "sura": 94,
+    "ayah": 7,
+    "arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "REM",
+        "features": "PREFIX|f:REM+"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "farago",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:farago|ROOT:frg|2MS"
+      },
+      {
+        "form": "ta",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "fa",
+        "tag": "RSLT",
+        "features": "PREFIX|f:RSLT+"
+      },
+      {
+        "form": "{nSabo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:nuSibato|ROOT:nSb|2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَاِذَا فَرَغْتَ",
+        "translation": "ஆகவே நீர் ஓய்வு பெற்றால்"
+      },
+      {
+        "arabic": "فَانْصَبْۙ‏",
+        "translation": "முயல்வீராக."
+      }
+    ],
+    "tamil_pj": "எனவே ஓய்வெடுத்ததும் தயாராவீராக!",
+    "transliteration_tamil": "Fபஇdhதா Fபரghக்த Fபன்sஸப்.",
+    "segments": [
+      [
+        1,
+        0,
+        480
+      ],
+      [
+        2,
+        760,
+        1560
+      ],
+      [
+        3,
+        1720,
+        4240
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7b6",
+    "verse_key": "94:8",
+    "sura": 94,
+    "ayah": 8,
+    "arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<ilaY`",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:<ilaY`"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "fa",
+        "tag": "CONJ",
+        "features": "PREFIX|f:CONJ+"
+      },
+      {
+        "form": "{rogab",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:yarogabu|ROOT:rgb|2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِلٰى",
+        "translation": "இன்னும் பக்கம்"
+      },
+      {
+        "arabic": "رَبِّكَ",
+        "translation": "உம் இறைவன்"
+      },
+      {
+        "arabic": "فَارْغَبْ‏",
+        "translation": "ஆர்வம் கொள்வீராக"
+      }
+    ],
+    "tamil_pj": "உமது இறைவனிடம் ஆசை வைப்பீராக!",
+    "transliteration_tamil": "வஇலா ரப்பிக Fபர்ghகப்.",
+    "segments": [
+      [
+        1,
+        0,
+        480
+      ],
+      [
+        2,
+        1200,
+        1520
+      ],
+      [
+        3,
+        1720,
+        4280
+      ]
+    ]
+  }
+]

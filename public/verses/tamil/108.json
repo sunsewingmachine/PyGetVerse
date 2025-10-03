@@ -1,0 +1,323 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553f9",
+    "verse_key": "108:300",
+    "tamil_pj": "அத்தியாயம் : 108 அல் கவ்ஸர்\r\nமொத்த வசனங்கள் : 3\r\nஅல் கவ்ஸர் - தடாகம்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அல் கவ்ஸர் என்ற சொல் இடம் பெற்றிருப்பதால் அதுவே இந்த அத்தியாயத்தின் பெயராக ஆனது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f645",
+    "verse_key": "108:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 108,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e821",
+    "verse_key": "108:1",
+    "sura": 108,
+    "ayah": 1,
+    "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "A^",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": ">aEoTayo",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aEoTaY`|ROOT:ETw|1P"
+      },
+      {
+        "form": "na`",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:1P"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "kawovara",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:kawovar|ROOT:kvr|M|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّاۤ",
+        "translation": "நிச்சயமாக நாம்"
+      },
+      {
+        "arabic": "اَعْطَيْنٰكَ",
+        "translation": "உமக்குக் கொடுத்தோம்"
+      },
+      {
+        "arabic": "الْكَوْثَرَؕ‏",
+        "translation": "‘கவ்ஸர்’ ஐ"
+      }
+    ],
+    "tamil_pj": "(முஹம்மதே!) கவ்ஸரை உமக்கு வழங்கினோம்.388",
+    "transliteration_tamil": "இன்னாa அoஃTதைனாகல் கவ்thஸர்.",
+    "segments": [
+      [
+        1,
+        0,
+        1320
+      ],
+      [
+        2,
+        3280,
+        4760
+      ],
+      [
+        3,
+        5000,
+        6760
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e822",
+    "verse_key": "108:2",
+    "sura": 108,
+    "ayah": 2,
+    "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "REM",
+        "features": "PREFIX|f:REM+"
+      },
+      {
+        "form": "Sal~i",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Sal~aY`|ROOT:Slw|2MS"
+      },
+      {
+        "form": "li",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "{noHaro",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:{noHaro|ROOT:nHr|2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَصَلِّ",
+        "translation": "ஆகவே தொழுவீராக"
+      },
+      {
+        "arabic": "لِرَبِّكَ",
+        "translation": "உம்இறைவனுக்காக"
+      },
+      {
+        "arabic": "وَانْحَرْ ؕ‏",
+        "translation": "இன்னும் அறுத்துப் பலியிடுவீராக"
+      }
+    ],
+    "tamil_pj": "எனவே உமது இறைவனைத் தொழுது அவனுக்காக அறுப்பீராக!427",
+    "transliteration_tamil": "Fபsஸல்லி லிரப்பிக வன்ஹர்.",
+    "segments": [
+      [
+        1,
+        119,
+        719
+      ],
+      [
+        2,
+        899,
+        1839
+      ],
+      [
+        3,
+        2059,
+        3519
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e823",
+    "verse_key": "108:3",
+    "sura": 108,
+    "ayah": 3,
+    "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "$aAni}a",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAni}|ROOT:$nA|M|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "huwa",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3MS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">abotaru",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>abotar|ROOT:btr|M|NOM"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّ",
+        "translation": "நிச்சயமாக"
+      },
+      {
+        "arabic": "شَانِئَكَ هُوَ",
+        "translation": "உம் பகைவன்தான்"
+      },
+      {
+        "arabic": "الْاَبْتَرُ‏",
+        "translation": "நன்மையற்றவன்"
+      }
+    ],
+    "tamil_pj": "உமது எதிரி தான் சந்ததியற்றவன்.",
+    "transliteration_tamil": "இன்ன ஷானிஅக hஹுவல் அப்தர்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1640,
+        2600
+      ],
+      [
+        3,
+        2800,
+        3080
+      ],
+      [
+        4,
+        3480,
+        5280
+      ]
+    ]
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "_id": "6857b193ceccc56a13354f73",
+    "verse_key": "113:300",
+    "tamil_pj": "அத்தியாயம் : 113 அல் ஃபலக்\r\nமொத்த வசனங்கள் : 5\r\nஅல் ஃபலக் - காலைப் பொழுது\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அல்ஃபலக் என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டுள்ளது."
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e836",
+    "verse_key": "113:1",
+    "sura": 113,
+    "ayah": 0,
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "words": [
+      {
+        "form": "qulo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaAla|ROOT:qwl|2MS"
+      },
+      {
+        "form": ">aEuw*u",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "falaqi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:falaq|ROOT:flq|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "قُلْ",
+        "translation": "கூறுவீராக"
+      },
+      {
+        "arabic": "اَعُوْذُ",
+        "translation": "பாதுகாப்புத் தேடுகிறேன்"
+      },
+      {
+        "arabic": "بِرَبِّ",
+        "translation": "இறைவனிடம்"
+      },
+      {
+        "arabic": "الْفَلَقِۙ‏",
+        "translation": "அதிகாலையின்"
+      }
+    ],
+    "tamil_pj": "அதிகாலையின் இறைவனிடம் அவன் படைத்தவற்றின் தீங்கிலிருந்தும், பரவும் இருளின் தீங்கை விட்டும், முடிச்சுக்களில் ஊதுபவற்றின் தீங்கை விட்டும்,499 பொறாமை கொள்ளும் போது பொறாமைக்காரனின் தீங்கை விட்டும் பாதுகாப்புத் தேடுகிறேன் என்று கூறுவீராக!357",
+    "transliteration_tamil": "Qகுல் அoஊdhது பிரப்பில் Fபலqக்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        400,
+        1120
+      ],
+      [
+        3,
+        1190,
+        1290
+      ],
+      [
+        4,
+        2240,
+        3520
+      ]
+    ]
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f64a",
+    "verse_key": "113:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 113,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e837",
+    "verse_key": "113:2",
+    "sura": 113,
+    "ayah": 2,
+    "arabic": "مِن شَرِّ مَا خَلَقَ",
+    "words": [
+      {
+        "form": "min",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "$ar~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      {
+        "form": "maA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "xalaqa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:xalaqa|ROOT:xlq|3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "مِنْ شَرِّ",
+        "translation": "தீங்கைவிட்டும்"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "எவற்றை"
+      },
+      {
+        "arabic": "خَلَقَۙ‏",
+        "translation": "படைத்தான்"
+      }
+    ],
+    "transliteration_tamil": "மின் ஷர்ரி மா khகலqக்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1160,
+        1840
+      ],
+      [
+        3,
+        1970,
+        2070
+      ],
+      [
+        4,
+        2330,
+        2430
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e838",
+    "verse_key": "113:3",
+    "sura": 113,
+    "ayah": 3,
+    "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "min",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "$ar~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      {
+        "form": "gaAsiqK",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:gaAsiq|ROOT:gsq|M|INDEF|GEN"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "waqaba",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:waqaba|ROOT:wqb|3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمِنْ شَرِّ",
+        "translation": "இன்னும் தீங்கைவிட்டும்"
+      },
+      {
+        "arabic": "غَاسِقٍ",
+        "translation": "இரவின்"
+      },
+      {
+        "arabic": "اِذَا وَقَبَۙ‏",
+        "translation": "காரிருள் படரும் போது"
+      }
+    ],
+    "transliteration_tamil": "வமின் ஷர்ரி ghகாஸிqகின் இdhதா வqகப்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1280,
+        1960
+      ],
+      [
+        3,
+        2160,
+        2880
+      ],
+      [
+        4,
+        3440,
+        3600
+      ],
+      [
+        5,
+        3800,
+        5080
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e839",
+    "verse_key": "113:4",
+    "sura": 113,
+    "ayah": 4,
+    "arabic": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "min",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "$ar~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~af~a`va`ti",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~af~a`va`t|ROOT:nfv|FP|GEN"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Euqadi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Euqodap|ROOT:Eqd|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمِنْ شَرِّ",
+        "translation": "இன்னும் தீங்கைவிட்டும்"
+      },
+      {
+        "arabic": "النَّفّٰثٰتِ",
+        "translation": "ஊதுகிற சூனியக்காரிகளின்"
+      },
+      {
+        "arabic": "فِى الْعُقَدِۙ‏",
+        "translation": "முடிச்சுகளில்"
+      }
+    ],
+    "transliteration_tamil": "வமின் ஷர்ரின் நFப்Fபாthஸாதி Fபில் oஉqகdத்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1240,
+        1960
+      ],
+      [
+        3,
+        2640,
+        4160
+      ],
+      [
+        4,
+        4370,
+        4470
+      ],
+      [
+        5,
+        4640,
+        6040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83a",
+    "verse_key": "113:5",
+    "sura": 113,
+    "ayah": 5,
+    "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "min",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "$ar~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      {
+        "form": "HaAsidK",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:HaAsid|ROOT:Hsd|M|INDEF|GEN"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "Hasada",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasada|ROOT:Hsd|3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمِنْ شَرِّ",
+        "translation": "இன்னும் தீங்கைவிட்டும்"
+      },
+      {
+        "arabic": "حَاسِدٍ",
+        "translation": "பொறாமைக்காரன்"
+      },
+      {
+        "arabic": "اِذَا حَسَدَ‏",
+        "translation": "பொறாமைப்படும்போது"
+      }
+    ],
+    "transliteration_tamil": "வமின் ஷர்ரி ஹாஸிdதின் இdhதா ஹஸdத்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1120,
+        1800
+      ],
+      [
+        3,
+        2000,
+        2800
+      ],
+      [
+        4,
+        3320,
+        3480
+      ],
+      [
+        5,
+        3680,
+        5720
+      ]
+    ]
+  }
+]

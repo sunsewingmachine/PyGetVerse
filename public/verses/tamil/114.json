@@ -1,0 +1,496 @@
+[
+  {
+    "_id": "6857b0d1ceccc56a13354f72",
+    "verse_key": "114:300",
+    "tamil_pj": "அத்தியாயம் : 114 அந்நாஸ்\nமொத்த வசனங்கள் : 6\nஅந்நாஸ் - மனிதர்கள்\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அந்நாஸ் என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டுள்ளது."
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83b",
+    "verse_key": "114:1",
+    "sura": 114,
+    "ayah": 0,
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "words": [
+      {
+        "form": "qulo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaAla|ROOT:qwl|2MS"
+      },
+      {
+        "form": ">aEuw*u",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN"
+      }
+    ],
+    "tamil_pj": "மறைந்து கொண்டு தீய எண்ணங்களைப் போடுபவனின் தீங்கை விட்டும்,499 மனிதர்களின் அரசனும், மனிதர்களின் கடவுளுமான மனிதர்களின் இறைவனிடம் பாதுகாப்புத் தேடுகிறேன் என்று கூறுவீராக!26",
+    "parts_tamil": [
+      {
+        "arabic": "قُلْ",
+        "translation": "கூறுவீராக"
+      },
+      {
+        "arabic": "اَعُوْذُ",
+        "translation": "பாதுகாப்புத் தேடுகிறேன்"
+      },
+      {
+        "arabic": "بِرَبِّ",
+        "translation": "இறைவனிடம்"
+      },
+      {
+        "arabic": "النَّاسِۙ‏",
+        "translation": "மக்களின்"
+      }
+    ],
+    "transliteration_tamil": "Qகுல் அoஊdhது பிரப்பின் நாஸ்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        360,
+        1080
+      ],
+      [
+        3,
+        1130,
+        1230
+      ],
+      [
+        4,
+        5530,
+        5630
+      ]
+    ]
+  },
+  {
+    "_id": "684a47ff6bf5aa4e9acf3c89",
+    "verse_key": "114:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 114,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83c",
+    "verse_key": "114:2",
+    "sura": 114,
+    "ayah": 2,
+    "arabic": "مَلِكِ ٱلنَّاسِ",
+    "words": [
+      {
+        "form": "maliki",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:malik|ROOT:mlk|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "مَلِكِ",
+        "translation": "அரசன்"
+      },
+      {
+        "arabic": "النَّاسِۙ‏",
+        "translation": "மக்களின்"
+      }
+    ],
+    "transliteration_tamil": "மலிகின் நாஸ்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        440
+      ],
+      [
+        2,
+        4670,
+        4770
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83d",
+    "verse_key": "114:3",
+    "sura": 114,
+    "ayah": 3,
+    "arabic": "إِلَـٰهِ ٱلنَّاسِ",
+    "words": [
+      {
+        "form": "<ila`hi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<ila`h|ROOT:Alh|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِلٰهِ",
+        "translation": "வணக்கத்திற்குரியவன்"
+      },
+      {
+        "arabic": "النَّاسِۙ‏",
+        "translation": "மக்களின்"
+      }
+    ],
+    "transliteration_tamil": "இலாhஹின் நாஸ்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        200,
+        560
+      ],
+      [
+        2,
+        4710,
+        4810
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83e",
+    "verse_key": "114:4",
+    "sura": 114,
+    "ayah": 4,
+    "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    "words": [
+      {
+        "form": "min",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "$ar~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "wasowaAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:wasowaAs|ROOT:wsws|MS|GEN"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "xan~aAsi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:xan~aAs|ROOT:xns|MS|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "مِنْ شَرِّ",
+        "translation": "தீங்கைவிட்டும்"
+      },
+      {
+        "arabic": "الْوَسْوَاسِ  ۙ",
+        "translation": "வீண் எண்ணங்களை ஏற்படுத்துபவன்"
+      },
+      {
+        "arabic": "الْخَـنَّاسِ ۙ‏",
+        "translation": "மறைந்து கொள்பவன்"
+      }
+    ],
+    "transliteration_tamil": "மின் ஷர்ரில் வஸ்வாஸில் khகன்னாஸ்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1240,
+        1960
+      ],
+      [
+        3,
+        2080,
+        3240
+      ],
+      [
+        4,
+        3360,
+        8040
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e83f",
+    "verse_key": "114:5",
+    "sura": 114,
+    "ayah": 5,
+    "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "words": [
+      {
+        "form": "{l~a*iY",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MS"
+      },
+      {
+        "form": "yuwasowisu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wasowasa|ROOT:wsws|3MS"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "Suduwri",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Sador|ROOT:Sdr|MP|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN"
+      }
+    ],
+    "tamil_pj": "அவன் மனிதர்களின் உள்ளங்களில் தீய எண்ணங்களைப் போடுகிறான்.",
+    "parts_tamil": [
+      {
+        "arabic": "الَّذِىْ يُوَسْوِسُ",
+        "translation": "வீண் எண்ணங்களை ஏற்படுத்துகின்றான்"
+      },
+      {
+        "arabic": "فِىْ صُدُوْرِ",
+        "translation": "உள்ளங்களில்"
+      },
+      {
+        "arabic": "النَّاسِۙ‏",
+        "translation": "மக்களுடைய"
+      }
+    ],
+    "transliteration_tamil": "அல்லdhதீ யுவஸ்விஸு Fபீ sஸுdதூரின் நாஸ்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        960,
+        2040
+      ],
+      [
+        3,
+        2090,
+        2190
+      ],
+      [
+        4,
+        2520,
+        3240
+      ],
+      [
+        5,
+        7410,
+        7510
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e840",
+    "verse_key": "114:6",
+    "sura": 114,
+    "ayah": 6,
+    "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+    "words": [
+      {
+        "form": "mina",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:min"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "jin~api",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:jin~ap|ROOT:jnn|F|GEN"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|GEN"
+      }
+    ],
+    "tamil_pj": "ஜின்களிலும், மனிதர்களிலும் இத்தகையோர் உள்ளனர்.",
+    "parts_tamil": [
+      {
+        "arabic": "مِنَ الْجِنَّةِ",
+        "translation": "ஜின்களிலிருந்தும்"
+      },
+      {
+        "arabic": "وَالنَّاسِ‏",
+        "translation": "இன்னும் மனிதர்கள்"
+      }
+    ],
+    "transliteration_tamil": "மினல் ஜின்னதி வன்நாஸ்.",
+    "segments": [
+      [
+        1,
+        0,
+        320
+      ],
+      [
+        2,
+        640,
+        2320
+      ],
+      [
+        3,
+        2600,
+        6840
+      ]
+    ]
+  }
+]

@@ -1,0 +1,804 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553f0",
+    "verse_key": "99:300",
+    "tamil_pj": "அத்தியாயம் : 99 அஸ்ஸில்ஸால்\r\nமொத்த வசனங்கள் : 8\r\nஅஸ்ஸில்ஸால் - நில அதிர்ச்சி\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் நில அதிர்ச்சி என்ற சொல் இடம் பெற்றிருப்பதால் அதுவே இந்த அத்தியாயத்தின் பெயராக ஆக்கப்பட்டது."
+  },
+  {
+    "_id": "684aeee6b72c6e8a6bb3f63d",
+    "verse_key": "99:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 99,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7df",
+    "verse_key": "99:1",
+    "sura": 99,
+    "ayah": 1,
+    "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "words": [
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "zulozilati",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:zulozilu|ROOT:zlzl|3FS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">aroDu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aroD|ROOT:ArD|F|NOM"
+      },
+      {
+        "form": "zilozaAla",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:zilozaAl|ROOT:zlzl|M|ACC"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِذَا زُلْزِلَتِ",
+        "translation": "நடுங்க வைக்கப்படும் போது"
+      },
+      {
+        "arabic": "الْاَرْضُ",
+        "translation": "பூமி"
+      },
+      {
+        "arabic": "زِلْزَالَهَا ۙ‏",
+        "translation": "அதன் நிலநடுக்கத்தால்"
+      }
+    ],
+    "tamil_pj": "பூமி பேரதிர்ச்சியாகக் குலுக்கப்படும்போது,",
+    "transliteration_tamil": "இdhதா zஸுல்zஸிலதில் அர்Dளு zஸில்zஸாலhஹா.",
+    "segments": [
+      [
+        1,
+        0,
+        360
+      ],
+      [
+        2,
+        520,
+        1520
+      ],
+      [
+        3,
+        1880,
+        2320
+      ],
+      [
+        4,
+        2440,
+        3720
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e0",
+    "verse_key": "99:2",
+    "sura": 99,
+    "ayah": 2,
+    "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": ">axorajati",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>axoraja|ROOT:xrj|3FS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">aroDu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aroD|ROOT:ArD|F|NOM"
+      },
+      {
+        "form": ">avoqaAla",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|ACC"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاَخْرَجَتِ",
+        "translation": "இன்னும் எறிந்துவிடும்"
+      },
+      {
+        "arabic": "الْاَرْضُ",
+        "translation": "பூமி"
+      },
+      {
+        "arabic": "اَثْقَالَهَا ۙ‏",
+        "translation": "அதன் சுமைகளை"
+      }
+    ],
+    "tamil_pj": "தனது சுமைகளை பூமி வெளிப்படுத்தும் போது,",
+    "transliteration_tamil": "வஅkhக்ரஜதில் அர்Dளு அthஸ்qகாலhஹா.",
+    "segments": [
+      [
+        1,
+        0,
+        1120
+      ],
+      [
+        2,
+        1440,
+        1920
+      ],
+      [
+        3,
+        2080,
+        3280
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e1",
+    "verse_key": "99:3",
+    "sura": 99,
+    "ayah": 3,
+    "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "qaAla",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaAla|ROOT:qwl|3MS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "<insa`nu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<insa`n|ROOT:Ans|M|NOM"
+      },
+      {
+        "form": "maA",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَقَالَ",
+        "translation": "இன்னும் கூறுவான்"
+      },
+      {
+        "arabic": "الْاِنْسَانُ",
+        "translation": "மனிதன்"
+      },
+      {
+        "arabic": "مَا لَهَا‌ ۚ‏",
+        "translation": "இதற்கென்ன"
+      }
+    ],
+    "tamil_pj": "இதற்கு என்ன நேர்ந்தது? என்று மனிதன் கேட்கும்போது,",
+    "transliteration_tamil": "வqகாலல் இன்ஸானு மா லhஹா.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1080,
+        3040
+      ],
+      [
+        3,
+        3210,
+        3310
+      ],
+      [
+        4,
+        3720,
+        4000
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e2",
+    "verse_key": "99:4",
+    "sura": 99,
+    "ayah": 4,
+    "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "words": [
+      {
+        "form": "yawoma}i*K",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:yawoma}i*"
+      },
+      {
+        "form": "tuHad~ivu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:tuHad~ivu|ROOT:Hdv|3FS"
+      },
+      {
+        "form": ">axobaAra",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>axobaAr|ROOT:xbr|MP|ACC"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يَوْمَٮِٕذٍ",
+        "translation": "அந்நாளில்"
+      },
+      {
+        "arabic": "تُحَدِّثُ",
+        "translation": "அறிவிக்கும்"
+      },
+      {
+        "arabic": "اَخْبَارَهَا ۙ‏",
+        "translation": "அது தன் செய்திகளை"
+      }
+    ],
+    "tamil_pj": "அந்நாளில்1 தனது இறைவன் இவ்வாறு அறிவித்ததாக தனது செய்திகளை அது அறிவிக்கும்.26",
+    "transliteration_tamil": "யவ்மஇdhதின் துஹdத்dதிthஸு அkhக்பாரhஹா.",
+    "segments": [
+      [
+        1,
+        0,
+        1040
+      ],
+      [
+        2,
+        1840,
+        3040
+      ],
+      [
+        3,
+        3360,
+        4320
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e3",
+    "verse_key": "99:5",
+    "sura": 99,
+    "ayah": 5,
+    "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": ">an~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:>an~|SP:<in~"
+      },
+      {
+        "form": "rab~a",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|ACC"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": ">awoHaY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>awoHaY`^|ROOT:wHy|3MS"
+      },
+      {
+        "form": "la",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "بِاَنَّ",
+        "translation": "அதாவது நிச்சயமாக"
+      },
+      {
+        "arabic": "رَبَّكَ",
+        "translation": "உம் இறைவன்"
+      },
+      {
+        "arabic": "اَوْحٰى لَهَا ؕ‏",
+        "translation": "தனக்கு கட்டளையிட்டான்"
+      }
+    ],
+    "transliteration_tamil": "பிஅன்ன ரப்பக அவ்ஹா லhஹா.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        250,
+        350
+      ],
+      [
+        2,
+        2120,
+        2440
+      ],
+      [
+        3,
+        2640,
+        3200
+      ],
+      [
+        4,
+        3480,
+        3800
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e4",
+    "verse_key": "99:6",
+    "sura": 99,
+    "ayah": 6,
+    "arabic": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "words": [
+      {
+        "form": "yawoma}i*K",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:yawoma}i*"
+      },
+      {
+        "form": "yaSoduru",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaSoduru|ROOT:Sdr|3MS"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "n~aAsu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:n~aAs|ROOT:nws|MP|NOM"
+      },
+      {
+        "form": ">a$otaAtFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>a$otaAt|ROOT:$tt|MP|INDEF|ACC"
+      },
+      {
+        "form": "l~i",
+        "tag": "PRP",
+        "features": "PREFIX|l:PRP+"
+      },
+      {
+        "form": "yura",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:>arayo|ROOT:rAy|3MP|MOOD:SUBJ"
+      },
+      {
+        "form": "woA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": ">aEoma`la",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Eamal|ROOT:Eml|MP|ACC"
+      },
+      {
+        "form": "humo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يَوْمَٮِٕذٍ",
+        "translation": "அந்நாளில்"
+      },
+      {
+        "arabic": "يَّصْدُرُ",
+        "translation": "புறப்படுவார்கள்"
+      },
+      {
+        "arabic": "النَّاسُ",
+        "translation": "மக்கள்"
+      },
+      {
+        "arabic": "اَشْتَاتًا  ۙ",
+        "translation": "பலபிரிவுகளாக"
+      },
+      {
+        "arabic": "لِّيُرَوْا",
+        "translation": "அவர்கள் காண்பதற்காக"
+      },
+      {
+        "arabic": "اَعْمَالَهُمْؕ‏",
+        "translation": "அவர்களின் செயல்களை"
+      }
+    ],
+    "tamil_pj": "அந்நாளில்1 மக்கள் தமது செயல்களைக் காண்பதற்காகப் பல பிரிவினர்களாக ஆவார்கள்.",
+    "transliteration_tamil": "யவ்மஇdhதிய் யsஸ்dதுருன் நாஸு அஷ்தாதல் லியுரவ் அoஃமாலhஹும்.",
+    "segments": [
+      [
+        1,
+        0,
+        1000
+      ],
+      [
+        2,
+        1800,
+        2680
+      ],
+      [
+        3,
+        3560,
+        4160
+      ],
+      [
+        4,
+        4400,
+        5240
+      ],
+      [
+        5,
+        5640,
+        6480
+      ],
+      [
+        6,
+        6960,
+        7640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e5",
+    "verse_key": "99:7",
+    "sura": 99,
+    "ayah": 7,
+    "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+    "words": [
+      {
+        "form": "fa",
+        "tag": "REM",
+        "features": "PREFIX|f:REM+"
+      },
+      {
+        "form": "man",
+        "tag": "COND",
+        "features": "STEM|POS:COND|LEM:man"
+      },
+      {
+        "form": "yaEomalo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eamila|ROOT:Eml|3MS|MOOD:JUS"
+      },
+      {
+        "form": "mivoqaAla",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      {
+        "form": "*ar~apK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:*ar~ap|ROOT:*rr|F|INDEF|GEN"
+      },
+      {
+        "form": "xayorFA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:xayor|ROOT:xyr|MS|INDEF|ACC"
+      },
+      {
+        "form": "yara",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ra'aA|ROOT:rAy|3MS|MOOD:JUS"
+      },
+      {
+        "form": "hu,",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فَمَنْ",
+        "translation": "ஆகவே, யார்"
+      },
+      {
+        "arabic": "يَّعْمَلْ",
+        "translation": "செய்வாரோ"
+      },
+      {
+        "arabic": "مِثْقَالَ",
+        "translation": "அளவு"
+      },
+      {
+        "arabic": "ذَرَّةٍ",
+        "translation": "ஓர் அணு"
+      },
+      {
+        "arabic": "خَيْرًا",
+        "translation": "நன்மை"
+      },
+      {
+        "arabic": "يَّرَهٗ ؕ‏",
+        "translation": "அதைப் பார்ப்பார்"
+      }
+    ],
+    "tamil_pj": "அணு அளவு நன்மை செய்தவர் அதைக் காண்பார்.",
+    "transliteration_tamil": "Fபமய் யoஃமல் மிthஸ்qகால dhதர்ரதின் khகைரய் யரhஹ்.",
+    "segments": [
+      [
+        1,
+        0,
+        280
+      ],
+      [
+        2,
+        1120,
+        1960
+      ],
+      [
+        3,
+        2080,
+        3000
+      ],
+      [
+        4,
+        3080,
+        3920
+      ],
+      [
+        5,
+        4200,
+        4800
+      ],
+      [
+        6,
+        5720,
+        7160
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e7e6",
+    "verse_key": "99:8",
+    "sura": 99,
+    "ayah": 8,
+    "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "man",
+        "tag": "COND",
+        "features": "STEM|POS:COND|LEM:man"
+      },
+      {
+        "form": "yaEomalo",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eamila|ROOT:Eml|3MS|MOOD:JUS"
+      },
+      {
+        "form": "mivoqaAla",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      {
+        "form": "*ar~apK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:*ar~ap|ROOT:*rr|F|INDEF|GEN"
+      },
+      {
+        "form": "$ar~FA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|ACC"
+      },
+      {
+        "form": "yara",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ra'aA|ROOT:rAy|3MS|MOOD:JUS"
+      },
+      {
+        "form": "hu,",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمَنْ",
+        "translation": "இன்னும் யார்"
+      },
+      {
+        "arabic": "يَّعْمَلْ",
+        "translation": "செய்வாரோ"
+      },
+      {
+        "arabic": "مِثْقَالَ",
+        "translation": "அளவு"
+      },
+      {
+        "arabic": "ذَرَّةٍ",
+        "translation": "ஓர் அணு"
+      },
+      {
+        "arabic": "شَرًّا",
+        "translation": "தீமை"
+      },
+      {
+        "arabic": "يَّرَهٗ‏",
+        "translation": "அதைப் பார்ப்பார்"
+      }
+    ],
+    "tamil_pj": "அணு அளவு தீமை செய்தவர் அதைக் காண்பார்.",
+    "transliteration_tamil": "வமய் யoஃமல் மிthஸ்qகால dhதர்ரதின் ஷர்ரய் யரhஹ்.",
+    "segments": [
+      [
+        1,
+        0,
+        360
+      ],
+      [
+        2,
+        1400,
+        2280
+      ],
+      [
+        3,
+        2400,
+        3320
+      ],
+      [
+        4,
+        3400,
+        4320
+      ],
+      [
+        5,
+        5480,
+        6200
+      ],
+      [
+        6,
+        7360,
+        9600
+      ]
+    ]
+  }
+]

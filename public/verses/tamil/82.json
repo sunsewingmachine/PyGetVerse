@@ -1,0 +1,1698 @@
+[
+  {
+    "_id": "685cde99ceccc56a133553df",
+    "verse_key": "82:300",
+    "tamil_pj": "அத்தியாயம் : 82 அல்இன்ஃபிதார்\r\nமொத்த வசனங்கள் : 19\r\nஅல்இன்ஃபிதார் - பிளந்துவிடுதல்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் வானம் பிளந்து விடுவதைப் பற்றி பேசப்படுவதால் அதுவே இந்த அத்தியாயத்தின் பெயராக ஆக்கப்பட்டது."
+  },
+  {
+    "_id": "684aeee6b72c6e8a6bb3f62c",
+    "verse_key": "82:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 82,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6aa",
+    "verse_key": "82:1",
+    "sura": 82,
+    "ayah": 1,
+    "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+    "words": [
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "s~amaA^'u",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:samaA^'|ROOT:smw|F|NOM"
+      },
+      {
+        "form": "{nfaTarato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(VII)|LEM:{nfaTarato|ROOT:fTr|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِذَا",
+        "translation": "போது"
+      },
+      {
+        "arabic": "السَّمَآءُ",
+        "translation": "வானம்"
+      },
+      {
+        "arabic": "انْفَطَرَتْۙ‏",
+        "translation": "பிளந்துவிடும்"
+      }
+    ],
+    "tamil_pj": "வானம்507 பிளந்து விடும்போது,",
+    "transliteration_tamil": "இdhதஸ் ஸமாaaஉ-ன்FபTதரத்.",
+    "segments": [
+      [
+        1,
+        0,
+        320
+      ],
+      [
+        2,
+        600,
+        3080
+      ],
+      [
+        3,
+        3360,
+        4920
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6ab",
+    "verse_key": "82:2",
+    "sura": 82,
+    "ayah": 2,
+    "arabic": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "kawaAkibu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:kawokab|ROOT:kwkb|MP|NOM"
+      },
+      {
+        "form": "{ntavarato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{ntavarato|ROOT:nvr|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِذَا",
+        "translation": "இன்னும் போது"
+      },
+      {
+        "arabic": "الْكَوَاكِبُ",
+        "translation": "நட்சத்திரங்கள்"
+      },
+      {
+        "arabic": "انْتَثَرَتْۙ‏",
+        "translation": "விழுந்து சிதறும்"
+      }
+    ],
+    "tamil_pj": "நட்சத்திரங்கள் உதிர்ந்து விடும்போது,",
+    "transliteration_tamil": "வஇdhதல் கவாகிபு-ன்தthஸரத்.",
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        720,
+        1880
+      ],
+      [
+        3,
+        2160,
+        4680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6ac",
+    "verse_key": "82:3",
+    "sura": 82,
+    "ayah": 3,
+    "arabic": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "biHaAru",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:baHor|ROOT:bHr|MP|NOM"
+      },
+      {
+        "form": "fuj~irato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:fuj~irato|ROOT:fjr|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِذَا",
+        "translation": "இன்னும் போது"
+      },
+      {
+        "arabic": "الْبِحَارُ",
+        "translation": "கடல்கள்"
+      },
+      {
+        "arabic": "فُجِّرَتْۙ‏",
+        "translation": "பிளக்கப்பட்டு"
+      }
+    ],
+    "tamil_pj": "கடல்கள் கொதிக்க வைக்கப்படும் போது,",
+    "transliteration_tamil": "வஇdhதல் பிஹாரு Fபுஜ்ஜிரத்.",
+    "segments": [
+      [
+        1,
+        0,
+        480
+      ],
+      [
+        2,
+        600,
+        1480
+      ],
+      [
+        3,
+        1560,
+        2720
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6ad",
+    "verse_key": "82:4",
+    "sura": 82,
+    "ayah": 4,
+    "arabic": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<i*aA",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:<i*aA"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "qubuwru",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:qabor|ROOT:qbr|MP|NOM"
+      },
+      {
+        "form": "buEovirato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:buEovira|ROOT:bEvr|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِذَا",
+        "translation": "இன்னும் போது"
+      },
+      {
+        "arabic": "الْقُبُوْرُ",
+        "translation": "சமாதிகள்"
+      },
+      {
+        "arabic": "بُعْثِرَتْۙ‏",
+        "translation": "புரட்டப்படும்"
+      }
+    ],
+    "tamil_pj": "மண்ணறைகள் புரட்டப்படும் போது,",
+    "transliteration_tamil": "வஇdhதல் qகுபூரு புoஃthஸிரத்.",
+    "segments": [
+      [
+        1,
+        0,
+        600
+      ],
+      [
+        2,
+        880,
+        1600
+      ],
+      [
+        3,
+        1680,
+        3400
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6ae",
+    "verse_key": "82:5",
+    "sura": 82,
+    "ayah": 5,
+    "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+    "words": [
+      {
+        "form": "Ealimato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Ealima|ROOT:Elm|3FS"
+      },
+      {
+        "form": "nafosN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:nafos|ROOT:nfs|FS|INDEF|NOM"
+      },
+      {
+        "form": "m~aA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "qad~amato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ama|ROOT:qdm|3FS"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": ">ax~arato",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:>ax~ara|ROOT:Axr|3FS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "عَلِمَتْ",
+        "translation": "அறியும்"
+      },
+      {
+        "arabic": "نَفْسٌ",
+        "translation": "ஓர் ஆன்மா"
+      },
+      {
+        "arabic": "مَّا",
+        "translation": "எதை"
+      },
+      {
+        "arabic": "قَدَّمَتْ",
+        "translation": "முற்படுத்தியது"
+      },
+      {
+        "arabic": "وَاَخَّرَتْؕ‏",
+        "translation": "இன்னும் பிற்படுத்தியது"
+      }
+    ],
+    "tamil_pj": "ஒருவன் தான் முற்படுத்தியதையும், பிற்படுத்தியதையும் அறிந்து கொள்வான்.",
+    "transliteration_tamil": "Oஅலிமத் நFப்ஸும் மா qகdத்dதமத் வஅkhக்khகரத்.",
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        1200,
+        1400
+      ],
+      [
+        3,
+        2009,
+        2109
+      ],
+      [
+        4,
+        2600,
+        3640
+      ],
+      [
+        5,
+        3800,
+        5720
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6af",
+    "verse_key": "82:6",
+    "sura": 82,
+    "ayah": 6,
+    "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+    "words": [
+      {
+        "form": "ya`^",
+        "tag": "VOC",
+        "features": "PREFIX|ya+"
+      },
+      {
+        "form": ">ay~uhaA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>ay~uhaA|NOM"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "<insa`nu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<insa`n|ROOT:Ans|M|NOM"
+      },
+      {
+        "form": "maA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "gar~a",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:gar~a|ROOT:grr|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "rab~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:rab~|ROOT:rbb|M|GEN"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "kariymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:kariym|ROOT:krm|MS|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يٰۤاَيُّهَا الْاِنْسَانُ",
+        "translation": "மனிதனே!"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "எது?"
+      },
+      {
+        "arabic": "غَرَّكَ",
+        "translation": "உன்னை ஏமாற்றியது"
+      },
+      {
+        "arabic": "بِرَبِّكَ",
+        "translation": "உன் இறைவனைப் பற்றி"
+      },
+      {
+        "arabic": "الْكَرِيْمِۙ‏",
+        "translation": "கண்ணியவான்"
+      }
+    ],
+    "tamil_pj": "மனிதனே! மரியாதைக்குரிய உனது இறைவன் விஷயத்தில் உன்னை ஏமாற்றியது எது?",
+    "transliteration_tamil": "யாaஅய்யுhஹல் இன்ஸானு மா ghகர்ரக பிரப்பிகல் கரீம்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        40,
+        2520
+      ],
+      [
+        3,
+        2920,
+        4280
+      ],
+      [
+        4,
+        4410,
+        4510
+      ],
+      [
+        5,
+        4840,
+        5640
+      ],
+      [
+        6,
+        5800,
+        6680
+      ],
+      [
+        7,
+        6840,
+        9560
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b0",
+    "verse_key": "82:7",
+    "sura": 82,
+    "ayah": 7,
+    "arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+    "words": [
+      {
+        "form": "{l~a*iY",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MS"
+      },
+      {
+        "form": "xalaqa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:xalaqa|ROOT:xlq|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "fa",
+        "tag": "CONJ",
+        "features": "PREFIX|f:CONJ+"
+      },
+      {
+        "form": "saw~aY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "fa",
+        "tag": "CONJ",
+        "features": "PREFIX|f:CONJ+"
+      },
+      {
+        "form": "Eadala",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eadala|ROOT:Edl|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "الَّذِىْ",
+        "translation": "எப்படிப்பட்டவன்"
+      },
+      {
+        "arabic": "خَلَقَكَ",
+        "translation": "உன்னைப் படைத்தான்"
+      },
+      {
+        "arabic": "فَسَوّٰٮكَ",
+        "translation": "இன்னும் உன்னை சீர்செய்தான்"
+      },
+      {
+        "arabic": "فَعَدَلَـكَۙ‏",
+        "translation": "இன்னும் உன்னைத் திருப்பினான்"
+      }
+    ],
+    "tamil_pj": "அவனே உன்னைப் படைத்து, உன்னைச் சீராக்கி, உன்னைச் செம்மைப்படுத்தினான்.",
+    "transliteration_tamil": "அல்லdhதீ khகலqகக Fபஸவ்வாக Fபoஅdதலக்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        880,
+        1640
+      ],
+      [
+        3,
+        1800,
+        2960
+      ],
+      [
+        4,
+        3160,
+        4680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b1",
+    "verse_key": "82:8",
+    "sura": 82,
+    "ayah": 8,
+    "arabic": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+    "words": [
+      {
+        "form": "fiY^",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": ">aY~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>aY~|GEN"
+      },
+      {
+        "form": "SuwrapK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Suwrap|ROOT:Swr|F|INDEF|GEN"
+      },
+      {
+        "form": "m~aA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "$aA^'a",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:$aA^'a|ROOT:$yA|3MS"
+      },
+      {
+        "form": "rak~aba",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:rak~aba|ROOT:rkb|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "فِىْۤ اَىِّ صُوْرَةٍ مَّا",
+        "translation": "எந்த உருவத்தில்"
+      },
+      {
+        "arabic": "شَآءَ",
+        "translation": "நாடினானோ"
+      },
+      {
+        "arabic": "رَكَّبَكَؕ‏",
+        "translation": "உன்னைப் பொறுத்தினான்"
+      }
+    ],
+    "tamil_pj": "அவன் விரும்பிய வடிவத்தில் உன்னை அமைத்தான்.",
+    "transliteration_tamil": "Fபீe அய்யி sஸூரதிம் மா ஷாaaஅ ரக்கபக்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1240,
+        1400
+      ],
+      [
+        3,
+        2080,
+        2920
+      ],
+      [
+        4,
+        3410,
+        3510
+      ],
+      [
+        5,
+        4040,
+        4280
+      ],
+      [
+        6,
+        5840,
+        7520
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b2",
+    "verse_key": "82:9",
+    "sura": 82,
+    "ayah": 9,
+    "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+    "words": [
+      {
+        "form": "kal~aA",
+        "tag": "AVR",
+        "features": "STEM|POS:AVR|LEM:kal~aA"
+      },
+      {
+        "form": "balo",
+        "tag": "RET",
+        "features": "STEM|POS:RET|LEM:bal"
+      },
+      {
+        "form": "tuka*~ibu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:ka*~aba|ROOT:k*b|2MP"
+      },
+      {
+        "form": "wna",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "كَلَّا",
+        "translation": "அவ்வாறல்ல"
+      },
+      {
+        "arabic": "بَلْ",
+        "translation": "மாறாக"
+      },
+      {
+        "arabic": "تُكَذِّبُوْنَ",
+        "translation": "பொய்ப்பிக்கிறீர்கள்"
+      },
+      {
+        "arabic": "بِالدِّيْنِۙ‏",
+        "translation": "கூலி கொடுக்கப்படுவதை"
+      }
+    ],
+    "tamil_pj": "ஆனால் நியாயத் தீர்ப்பு நாளைப்1 பொய்யெனக் கருதுகிறீர்கள்.",
+    "transliteration_tamil": "கல்லா பல் துகdhத்dhதிபூன பிdத்dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        440
+      ],
+      [
+        2,
+        690,
+        790
+      ],
+      [
+        3,
+        1440,
+        2280
+      ],
+      [
+        4,
+        2760,
+        5680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b3",
+    "verse_key": "82:10",
+    "sura": 82,
+    "ayah": 10,
+    "arabic": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "REM",
+        "features": "PREFIX|w:REM+"
+      },
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "Ealayo",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:EalaY`"
+      },
+      {
+        "form": "kumo",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      },
+      {
+        "form": "la",
+        "tag": "EMPH",
+        "features": "PREFIX|l:EMPH+"
+      },
+      {
+        "form": "Ha`fiZiyna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:Ha`fiZ|ROOT:HfZ|MP|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِنَّ عَلَيْكُمْ",
+        "translation": "இன்னும் நிச்சயமாக உங்கள் மீது"
+      },
+      {
+        "arabic": "لَحٰـفِظِيْنَۙ‏",
+        "translation": "காவலர்கள்"
+      }
+    ],
+    "tamil_pj": "உங்கள் மீது மரியாதைக்குரிய எழுத்தர்களான கண்காணிப்பாளர்கள் உள்ளனர்.26",
+    "transliteration_tamil": "வஇன்ன oஅலைகும் லஹாFபிளீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1520,
+        1920
+      ],
+      [
+        3,
+        2240,
+        5520
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b4",
+    "verse_key": "82:11",
+    "sura": 82,
+    "ayah": 11,
+    "arabic": "كِرَامًا كَـٰتِبِينَ",
+    "words": [
+      {
+        "form": "kiraAmFA",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:kariym|ROOT:krm|MP|INDEF|ACC"
+      },
+      {
+        "form": "ka`tibiyna",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:kaAtib|ROOT:ktb|MP|ACC"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "كِرَامًا",
+        "translation": "கண்ணியமானவர்கள்"
+      },
+      {
+        "arabic": "كَاتِبِيْنَۙ‏",
+        "translation": "எழுத்தாளர்கள்"
+      }
+    ],
+    "transliteration_tamil": "கிராமன் காதிபீன்.",
+    "tamil_pj": "",
+    "segments": [
+      [
+        1,
+        0,
+        640
+      ],
+      [
+        2,
+        1200,
+        4360
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b5",
+    "verse_key": "82:12",
+    "sura": 82,
+    "ayah": 12,
+    "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+    "words": [
+      {
+        "form": "yaEolamu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Ealima|ROOT:Elm|3MP"
+      },
+      {
+        "form": "wna",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "maA",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:maA"
+      },
+      {
+        "form": "tafoEalu",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      {
+        "form": "wna",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MP"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يَعْلَمُوْنَ",
+        "translation": "அவர்கள் அறிகிறார்கள்"
+      },
+      {
+        "arabic": "مَا تَفْعَلُوْنَ‏",
+        "translation": "நீங்கள் செய்வதை"
+      }
+    ],
+    "tamil_pj": "நீங்கள் செய்வதை அவர்கள் அறிவார்கள்.",
+    "transliteration_tamil": "யoஃலமூன மா தFப்oஅலூன்.",
+    "segments": [
+      [
+        1,
+        690,
+        790
+      ],
+      [
+        2,
+        1130,
+        1230
+      ],
+      [
+        3,
+        1520,
+        4320
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b6",
+    "verse_key": "82:13",
+    "sura": 82,
+    "ayah": 13,
+    "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">aboraAra",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:bar~|ROOT:brr|MP|ACC"
+      },
+      {
+        "form": "la",
+        "tag": "EMPH",
+        "features": "PREFIX|l:EMPH+"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "naEiymK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:naEiym|ROOT:nEm|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّ",
+        "translation": "நிச்சயமாக"
+      },
+      {
+        "arabic": "الْاَبْرَارَ",
+        "translation": "நல்லோர்"
+      },
+      {
+        "arabic": "لَفِىْ نَعِيْمٍۚ‏",
+        "translation": "நயீம் என்ற சொர்க்கத்தில்தான்"
+      }
+    ],
+    "tamil_pj": "நல்லோர் இன்பத்தில் இருப்பார்கள்.",
+    "transliteration_tamil": "இன்னல் அப்ரார லFபீ நoஈம்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1240,
+        2240
+      ],
+      [
+        3,
+        2400,
+        2640
+      ],
+      [
+        4,
+        3000,
+        5360
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b7",
+    "verse_key": "82:14",
+    "sura": 82,
+    "ayah": 14,
+    "arabic": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "fuj~aAra",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:fuj~aAr|ROOT:fjr|MP|ACC"
+      },
+      {
+        "form": "la",
+        "tag": "EMPH",
+        "features": "PREFIX|l:EMPH+"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "jaHiymK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:jaHiym|ROOT:jHm|F|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَاِنَّ",
+        "translation": "இன்னும் நிச்சயமாக"
+      },
+      {
+        "arabic": "الْفُجَّارَ",
+        "translation": "தீயோர்"
+      },
+      {
+        "arabic": "لَفِىْ جَحِيْمٍ ۚۖ‏",
+        "translation": "ஜஹீம் என்ற நரகத்தில்தான்"
+      }
+    ],
+    "tamil_pj": "பாவிகள் நரகில் இருப்பார்கள்.",
+    "transliteration_tamil": "வஇன்னல் Fபுஜ்ஜார லFபீ ஜஹீம்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1400,
+        2320
+      ],
+      [
+        3,
+        2480,
+        2760
+      ],
+      [
+        4,
+        3120,
+        5680
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b8",
+    "verse_key": "82:15",
+    "sura": 82,
+    "ayah": 15,
+    "arabic": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+    "words": [
+      {
+        "form": "yaSola",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaSolaY|ROOT:Sly|3MP"
+      },
+      {
+        "form": "wona",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      },
+      {
+        "form": "yawoma",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:yawom|ROOT:ywm|M|ACC"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يَّصْلَوْنَهَا",
+        "translation": "அதில் எரிவார்கள்"
+      },
+      {
+        "arabic": "يَوْمَ",
+        "translation": "நாளில்"
+      },
+      {
+        "arabic": "الدِّيْنِ‏",
+        "translation": "கூலி"
+      }
+    ],
+    "tamil_pj": "தீர்ப்பு நாளில் அதில் அவர்கள் எரிவார்கள்.",
+    "transliteration_tamil": "யsஸ்லவ்னhஹா யவ்மdத் dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        1040
+      ],
+      [
+        2,
+        1370,
+        1470
+      ],
+      [
+        3,
+        2320,
+        4640
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6b9",
+    "verse_key": "82:16",
+    "sura": 82,
+    "ayah": 16,
+    "arabic": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CIRC",
+        "features": "PREFIX|w:CIRC+"
+      },
+      {
+        "form": "maA",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:maA|SP:kaAn"
+      },
+      {
+        "form": "humo",
+        "tag": "PRON",
+        "features": "STEM|POS:PRON|3MP"
+      },
+      {
+        "form": "Eano",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:Ean"
+      },
+      {
+        "form": "haA",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3FS"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "gaA^}ibiyna",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:gaA^}ibiyn|ROOT:gyb|MP|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمَا",
+        "translation": "இன்னும் இல்லை"
+      },
+      {
+        "arabic": "هُمْ",
+        "translation": "அவர்கள்"
+      },
+      {
+        "arabic": "عَنْهَا",
+        "translation": "அதிலிருந்து"
+      },
+      {
+        "arabic": "بِغَآٮِٕبِيْنَؕ‏",
+        "translation": "மறைபவர்களாக"
+      }
+    ],
+    "tamil_pj": "அதை விட்டும் அவர்கள் மறைந்து விடுவோர் அல்லர்.",
+    "transliteration_tamil": "வமா hஹும் oஅன்hஹா பிghகாaaஇபீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        480,
+        600
+      ],
+      [
+        3,
+        1000,
+        1480
+      ],
+      [
+        4,
+        1800,
+        6720
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6ba",
+    "verse_key": "82:17",
+    "sura": 82,
+    "ayah": 17,
+    "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "maA^",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": ">adoraY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "maA",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": "yawomu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yawom|ROOT:ywm|M|NOM"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَمَاۤ",
+        "translation": "இன்னும் எது"
+      },
+      {
+        "arabic": "اَدْرٰٮكَ",
+        "translation": "உமக்கு அறிவித்தது"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "என்ன(வென்று)"
+      },
+      {
+        "arabic": "يَوْمُ الدِّيْنِۙ‏",
+        "translation": "கூலி நாள்"
+      }
+    ],
+    "tamil_pj": "தீர்ப்பு நாள்1 எதுவென (முஹம்மதே!) உமக்கு எப்படித் தெரியும்?",
+    "transliteration_tamil": "வமாa அdத்ராக மா யவ்முdத் dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1720,
+        2400
+      ],
+      [
+        3,
+        2610,
+        2710
+      ],
+      [
+        4,
+        3000,
+        3560
+      ],
+      [
+        5,
+        3920,
+        6440
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6bb",
+    "verse_key": "82:18",
+    "sura": 82,
+    "ayah": 18,
+    "arabic": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+    "words": [
+      {
+        "form": "vum~a",
+        "tag": "CONJ",
+        "features": "STEM|POS:CONJ|LEM:vum~"
+      },
+      {
+        "form": "maA^",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": ">adoraY`",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>adoraY`|ROOT:dry|3MS"
+      },
+      {
+        "form": "ka",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:2MS"
+      },
+      {
+        "form": "maA",
+        "tag": "INTG",
+        "features": "STEM|POS:INTG|LEM:maA"
+      },
+      {
+        "form": "yawomu",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yawom|ROOT:ywm|M|NOM"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "d~iyni",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:diyn|ROOT:dyn|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "ثُمَّ",
+        "translation": "பிறகு"
+      },
+      {
+        "arabic": "مَاۤ",
+        "translation": "எது?"
+      },
+      {
+        "arabic": "اَدْرٰٮكَ",
+        "translation": "உமக்கு அறிவித்தது"
+      },
+      {
+        "arabic": "مَا",
+        "translation": "என்ன(வென்று)"
+      },
+      {
+        "arabic": "يَوْمُ الدِّيْنِؕ‏",
+        "translation": "கூலி நாள்"
+      }
+    ],
+    "tamil_pj": "பின்னரும் தீர்ப்பு நாள்1 எதுவென உமக்கு எப்படித் தெரியும்?",
+    "transliteration_tamil": "Thஸும்ம மாa அdத்ராக மா யவ்முdத் dதீன்.",
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        930,
+        1030
+      ],
+      [
+        3,
+        2480,
+        3160
+      ],
+      [
+        4,
+        3330,
+        3430
+      ],
+      [
+        5,
+        3720,
+        4320
+      ],
+      [
+        6,
+        4720,
+        7280
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e6bc",
+    "verse_key": "82:19",
+    "sura": 82,
+    "ayah": 19,
+    "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+    "words": [
+      {
+        "form": "yawoma",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:yawom|ROOT:ywm|M|ACC"
+      },
+      {
+        "form": "laA",
+        "tag": "NEG",
+        "features": "STEM|POS:NEG|LEM:laA"
+      },
+      {
+        "form": "tamoliku",
+        "tag": "V",
+        "features": "STEM|POS:V|IMPF|LEM:malakato|ROOT:mlk|3FS"
+      },
+      {
+        "form": "nafosN",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:nafos|ROOT:nfs|FS|INDEF|NOM"
+      },
+      {
+        "form": "l~i",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "nafosK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:nafos|ROOT:nfs|FS|INDEF|GEN"
+      },
+      {
+        "form": "$ayo_#FA",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:$aYo'|ROOT:$yA|M|INDEF|ACC"
+      },
+      {
+        "form": "wa",
+        "tag": "REM",
+        "features": "PREFIX|w:REM+"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": ">amoru",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:>amor|ROOT:Amr|M|NOM"
+      },
+      {
+        "form": "yawoma}i*K",
+        "tag": "T",
+        "features": "STEM|POS:T|LEM:yawoma}i*"
+      },
+      {
+        "form": "l~i",
+        "tag": "P",
+        "features": "PREFIX|l:P+"
+      },
+      {
+        "form": "l~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "يَوْمَ",
+        "translation": "நாள்"
+      },
+      {
+        "arabic": "لَا تَمْلِكُ",
+        "translation": "உரிமை பெறாது"
+      },
+      {
+        "arabic": "نَفْسٌ",
+        "translation": "ஓர் ஆன்மா"
+      },
+      {
+        "arabic": "لِّنَفْسٍ",
+        "translation": "ஓர் ஆத்மாவிற்கு"
+      },
+      {
+        "arabic": "شَيْئًا‌ ؕ",
+        "translation": "எதையும்"
+      },
+      {
+        "arabic": "وَالْاَمْرُ",
+        "translation": "இன்னும் அதிகாரம்"
+      },
+      {
+        "arabic": "يَوْمَٮِٕذٍ",
+        "translation": "அந்நாளில்"
+      },
+      {
+        "arabic": "لِّلّٰهِ‏",
+        "translation": "அல்லாஹ்விற்கே"
+      }
+    ],
+    "tamil_pj": "அந்நாளில் எவரும் எவருக்கும் சிறிதளவும் நன்மை செய்ய முடியாது. அந்நாளில் அதிகாரம் அல்லாஹ்வுக்கே.",
+    "transliteration_tamil": "யவ்ம லா தம்லிகு நFப்ஸுல் லிநFப்ஸின் ஷைஆ, வல்அம்ரு யவ்மஇdhதில் லில்லாhஹ்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        610,
+        710
+      ],
+      [
+        3,
+        960,
+        1880
+      ],
+      [
+        4,
+        2360,
+        2520
+      ],
+      [
+        5,
+        2840,
+        3560
+      ],
+      [
+        6,
+        4410,
+        4510
+      ],
+      [
+        7,
+        6320,
+        7320
+      ],
+      [
+        8,
+        7480,
+        8560
+      ],
+      [
+        9,
+        9370,
+        9470
+      ]
+    ]
+  }
+]

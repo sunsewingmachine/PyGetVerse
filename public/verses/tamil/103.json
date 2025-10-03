@@ -1,0 +1,401 @@
+[
+  {
+    "_id": "685cde9aceccc56a133553f4",
+    "verse_key": "103:300",
+    "tamil_pj": "அத்தியாயம் : 103 அல் அஸ்ர்\r\nமொத்த வசனங்கள் : 3\r\nஅல் அஸ்ர் - காலம்\r\nஇந்த அத்தியாயத்தின் முதல் வசனத்தில் அல் அஸ்ர் என்ற சொல் இடம் பெற்றிருப்பதால் இந்த அத்தியாயத்திற்கு இந்தப் பெயர் சூட்டப்பட்டது."
+  },
+  {
+    "_id": "684aeee7b72c6e8a6bb3f640",
+    "verse_key": "103:0",
+    "tamil_pj": "அளவற்ற அருளாளனும், நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால்...",
+    "ayah": 0,
+    "parts_tamil": [
+      {
+        "arabic": "بِسْمِ",
+        "translation": "பெயரால்"
+      },
+      {
+        "arabic": "اللهِ",
+        "translation": "அல்லாஹ்வின்"
+      },
+      {
+        "arabic": "الرَّحْمٰنِ",
+        "translation": "பேரருளாளன்"
+      },
+      {
+        "arabic": "الرَّحِيْمِ",
+        "translation": "பேரன்பாளன்"
+      }
+    ],
+    "sura": 103,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "words": [
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "somi",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:{som|ROOT:smw|M|GEN"
+      },
+      {
+        "form": "{ll~ahi",
+        "tag": "PN",
+        "features": "STEM|POS:PN|LEM:{ll~ah|ROOT:Alh|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHoma`ni",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHoma`n|ROOT:rHm|MS|GEN"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "r~aHiymi",
+        "tag": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:r~aHiym|ROOT:rHm|MS|GEN"
+      }
+    ],
+    "segments": [
+      [
+        1,
+        0,
+        560
+      ],
+      [
+        2,
+        760,
+        1200
+      ],
+      [
+        3,
+        2000,
+        2360
+      ],
+      [
+        4,
+        2680,
+        6120
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e805",
+    "verse_key": "103:1",
+    "sura": 103,
+    "ayah": 1,
+    "arabic": "وَٱلْعَصْرِ",
+    "words": [
+      {
+        "form": "wa",
+        "tag": "P",
+        "features": "PREFIX|w:P+"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "EaSori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:EaSor|ROOT:ESr|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "وَالْعَصْرِۙ‏",
+        "translation": "காலத்தின் மீது சத்தியமாக"
+      }
+    ],
+    "tamil_pj": "காலத்தின் மீது சத்தியமாக!379",
+    "transliteration_tamil": "வல்oஅsஸ்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        1840
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e806",
+    "verse_key": "103:2",
+    "sura": 103,
+    "ayah": 2,
+    "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+    "words": [
+      {
+        "form": "<in~a",
+        "tag": "ACC",
+        "features": "STEM|POS:ACC|LEM:<in~|SP:<in~"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "<insa`na",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:<insa`n|ROOT:Ans|M|ACC"
+      },
+      {
+        "form": "la",
+        "tag": "EMPH",
+        "features": "PREFIX|l:EMPH+"
+      },
+      {
+        "form": "fiY",
+        "tag": "P",
+        "features": "STEM|POS:P|LEM:fiY"
+      },
+      {
+        "form": "xusorK",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:xusor|ROOT:xsr|M|INDEF|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِنَّ الْاِنْسَانَ",
+        "translation": "நிச்சயமாக மனிதன்"
+      },
+      {
+        "arabic": "لَفِىْ خُسْرٍۙ‏",
+        "translation": "நஷ்டத்தில்தான்"
+      }
+    ],
+    "tamil_pj": "மனிதன் நட்டத்தில் இருக்கிறான்.",
+    "transliteration_tamil": "இன்னல் இன்ஸான லFபீ  khகுஸ்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        70
+      ],
+      [
+        2,
+        1480,
+        3560
+      ],
+      [
+        3,
+        3760,
+        4080
+      ],
+      [
+        4,
+        4440,
+        5840
+      ]
+    ]
+  },
+  {
+    "_id": "67efbbadb8e4de2bae44e807",
+    "verse_key": "103:3",
+    "sura": 103,
+    "ayah": 3,
+    "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "words": [
+      {
+        "form": "<il~aA",
+        "tag": "EXP",
+        "features": "STEM|POS:EXP|LEM:<il~aA"
+      },
+      {
+        "form": "{l~a*iyna",
+        "tag": "REL",
+        "features": "STEM|POS:REL|LEM:{l~a*iY|MP"
+      },
+      {
+        "form": "'aAmanu",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:'aAmana|ROOT:Amn|3MP"
+      },
+      {
+        "form": "wA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "Eamilu",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eamila|ROOT:Eml|3MP"
+      },
+      {
+        "form": "wA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "S~a`liHa`ti",
+        "tag": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:S~a`liHa`t|ROOT:SlH|FP|ACC"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "tawaASa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tawaASa|ROOT:wSy|3MP"
+      },
+      {
+        "form": "woA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "{lo",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "Haq~i",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Haq~|ROOT:Hqq|M|GEN"
+      },
+      {
+        "form": "wa",
+        "tag": "CONJ",
+        "features": "PREFIX|w:CONJ+"
+      },
+      {
+        "form": "tawaASa",
+        "tag": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tawaASa|ROOT:wSy|3MP"
+      },
+      {
+        "form": "woA@",
+        "tag": "PRON",
+        "features": "SUFFIX|PRON:3MP"
+      },
+      {
+        "form": "bi",
+        "tag": "P",
+        "features": "PREFIX|bi+"
+      },
+      {
+        "form": "{l",
+        "tag": "DET",
+        "features": "PREFIX|Al+"
+      },
+      {
+        "form": "S~abori",
+        "tag": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|GEN"
+      }
+    ],
+    "parts_tamil": [
+      {
+        "arabic": "اِلَّا",
+        "translation": "தவிர"
+      },
+      {
+        "arabic": "الَّذِيْنَ اٰمَنُوْا",
+        "translation": "நம்பிக்கை கொண்டவர்கள்"
+      },
+      {
+        "arabic": "وَ عَمِلُوا",
+        "translation": "இன்னும் செய்தார்கள்"
+      },
+      {
+        "arabic": "الصّٰلِحٰتِ",
+        "translation": "நற்செயல்களை"
+      },
+      {
+        "arabic": "وَتَوَاصَوْا",
+        "translation": "இன்னும் உபதேசித்துக் கொண்டார்கள்"
+      },
+      {
+        "arabic": "بِالْحَقِّ   ۙ",
+        "translation": "உண்மையை"
+      },
+      {
+        "arabic": "وَتَوَاصَوْا",
+        "translation": "இன்னும் உபதேசித்துக் கொண்டார்கள்"
+      },
+      {
+        "arabic": "بِالصَّبْرِ‏",
+        "translation": "பொறுமையை"
+      }
+    ],
+    "tamil_pj": "நம்பிக்கை கொண்டு நல்லறங்கள் செய்வோரையும், உண்மையைப் போதித்து பொறுமையையும் போதித்துக் கொள்வோரையும் தவிர.",
+    "transliteration_tamil": "இல்ல-ல்லdhதீன ஆமனூ வoஅமிலுsஸ் sஸாலிஹாதி வதவாsஸவ் பில்ஹqக்qகி வதவாsஸவ் பிsஸ்sஸப்ர்.",
+    "segments": [
+      [
+        1,
+        0,
+        480
+      ],
+      [
+        2,
+        800,
+        1240
+      ],
+      [
+        3,
+        2160,
+        2520
+      ],
+      [
+        4,
+        2800,
+        3640
+      ],
+      [
+        5,
+        3960,
+        5080
+      ],
+      [
+        6,
+        5280,
+        6560
+      ],
+      [
+        7,
+        7040,
+        7520
+      ],
+      [
+        8,
+        7680,
+        9000
+      ],
+      [
+        9,
+        9080,
+        12600
+      ]
+    ]
+  }
+]
