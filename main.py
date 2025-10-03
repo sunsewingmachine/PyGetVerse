@@ -3,10 +3,11 @@ import os
 import sys
 import time
 from pathlib import Path
-
+import re
 import pyautogui
 import tkinter as tk
 from tkinter import ttk
+from tkinter import font as tkfont
 
 
 APP_TITLE = "PyGetVerse - Quran Paster"
@@ -32,19 +33,34 @@ class QuranPasterApp:
         self.root.title(APP_TITLE)
         self.root.attributes("-topmost", True)
         self.root.resizable(False, False)
-        self.root.geometry("380x200")
+        self.root.geometry("480x220")
+
+        # Slightly larger default fonts for better readability
+        try:
+            default_font = tkfont.nametofont("TkDefaultFont")
+            text_font = tkfont.nametofont("TkTextFont")
+            default_font.configure(size=12)
+            text_font.configure(size=12)
+            style = ttk.Style(self.root)
+            style.configure("TLabel", font=default_font)
+            style.configure("TButton", font=default_font, padding=6)
+            style.configure("TCheckbutton", font=default_font)
+            style.configure("TEntry", padding=4)
+        except Exception:
+            pass
 
         # State
         self.paste_pending = False
         self.last_text_copied = ""
         self.include_arabic = tk.BooleanVar(value=True)
         self.include_tamil = tk.BooleanVar(value=True)
+        self.clean_tamil_numbers = tk.BooleanVar(value=True)
 
         # Load saved settings
         self._load_settings()
 
         # UI
-        container = ttk.Frame(self.root, padding=10)
+        container = ttk.Frame(self.root, padding=(12, 8))
         container.pack(fill=tk.BOTH, expand=True)
 
         label = ttk.Label(container, text="Enter chapter:verse (e.g., 1:1)")
@@ -52,25 +68,34 @@ class QuranPasterApp:
 
         self.input_var = tk.StringVar()
         self.entry = ttk.Entry(container, textvariable=self.input_var)
-        self.entry.pack(fill=tk.X, pady=(4, 6))
+        try:
+            # Ensure the entry uses the larger font and appears taller
+            self.entry.configure(font=(tkfont.nametofont("TkDefaultFont").actual("family"), 13))
+        except Exception:
+            pass
+        self.entry.pack(fill=tk.X, pady=(4, 6), ipady=6)
         self.entry.focus_set()
         self.entry.bind("<Return>", self._on_submit)
 
         # Options
         options_row = ttk.Frame(container)
-        options_row.pack(fill=tk.X, pady=(2, 2))
+        options_row.pack(fill=tk.X, pady=(0, 2))
         self.arabic_chk = ttk.Checkbutton(options_row, text="Arabic", variable=self.include_arabic)
         self.arabic_chk.pack(side=tk.LEFT)
         self.tamil_chk = ttk.Checkbutton(options_row, text="Tamil", variable=self.include_tamil)
         self.tamil_chk.pack(side=tk.LEFT, padx=(10, 0))
 
+        # Third option inline with first row
+        self.clean_tamil_chk = ttk.Checkbutton(options_row, text="Remove Exp", variable=self.clean_tamil_numbers)
+        self.clean_tamil_chk.pack(side=tk.LEFT, padx=(10, 0))
+
         self.status_var = tk.StringVar()
         self.status = ttk.Label(container, textvariable=self.status_var, foreground="#444")
-        self.status.pack(anchor=tk.W, pady=(2, 6))
+        self.status.pack(anchor=tk.W, pady=(0, 0))
 
         buttons = ttk.Frame(container)
         buttons.pack(fill=tk.X)
-        self.submit_btn = ttk.Button(buttons, text="Copy & Paste", command=self._on_submit)
+        self.submit_btn = ttk.Button(buttons, text="Put Verse", command=self._on_submit)
         self.submit_btn.pack(side=tk.LEFT)
         # Removed Hide button per request
 
@@ -199,6 +224,8 @@ class QuranPasterApp:
 
         arabic = (match.get("arabic") or "").strip()
         tamil = (match.get("tamil_pj") or "").strip()
+        if self.clean_tamil_numbers.get():
+            tamil = re.sub(r"\d+", "", tamil)
 
         lines = []
         if use_arabic and arabic:
@@ -238,6 +265,8 @@ class QuranPasterApp:
                 raise KeyError(f"{chapter}:{v}")
             arabic = (item.get("arabic") or "").strip()
             tamil = (item.get("tamil_pj") or "").strip()
+            if self.clean_tamil_numbers.get():
+                tamil = re.sub(r"\d+", "", tamil)
             lines = []
             if use_arabic and arabic:
                 lines.append(arabic)
@@ -316,6 +345,7 @@ class QuranPasterApp:
                     cfg = json.load(f)
                 self.include_arabic.set(bool(cfg.get("include_arabic", True)))
                 self.include_tamil.set(bool(cfg.get("include_tamil", True)))
+                self.clean_tamil_numbers.set(bool(cfg.get("clean_tamil_numbers", True)))
         except Exception:
             # Ignore corrupt settings and keep defaults
             pass
@@ -324,6 +354,7 @@ class QuranPasterApp:
         cfg = {
             "include_arabic": bool(self.include_arabic.get()),
             "include_tamil": bool(self.include_tamil.get()),
+            "clean_tamil_numbers": bool(self.clean_tamil_numbers.get()),
         }
         with SETTINGS_PATH.open("w", encoding="utf-8") as f:
             json.dump(cfg, f, ensure_ascii=False, indent=2)
