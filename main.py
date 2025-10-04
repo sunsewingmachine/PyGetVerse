@@ -119,7 +119,7 @@ class QuranPasterApp:
         if not self.paste_pending:
             return
         # Give a short moment for the other window to receive focus
-        time.sleep(0.15)
+        time.sleep(0.5)
         try:
             pyautogui.hotkey("ctrl", "v")
             self.status_var.set("Pasted")
@@ -230,6 +230,8 @@ class QuranPasterApp:
         lines = []
         if use_arabic and arabic:
             lines.append(arabic)
+        if use_arabic and arabic:
+            lines.append("")
         if use_tamil and tamil:
             lines.append(tamil)
         body = "\n".join(lines).strip()
